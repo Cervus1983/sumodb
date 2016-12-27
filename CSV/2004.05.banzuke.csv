@@ -1,43 +1,43 @@
-Rank,Rikishi,Height/Weight,Result
-Y1e,Asashoryu,185 cm 140 kg,13-2 Y
-O1e,Chiyotaikai,181 cm 155 kg,9-6
-O1w,Kaio,185 cm 175 kg,10-5
-O2e,Musoyama,184 cm 175 kg,6-9
-O2w,Tochiazuma,181 cm 151 kg,0-0-15 â
-S1e,Wakanosato,185 cm 150.2 kg,9-6
-S1w,Kyokutenho,191 cm 149 kg,6-9 â
-K1e,Miyabiyama,187.5 cm 179 kg,3-12 â
-K1w,Kotomitsuki,181.5 cm 153.8 kg,9-6
-M1e,Tochinonada,186.5 cm 163.9 kg,5-10
-M1w,Hokutoriki,182.5 cm 153 kg,13-2 DSK â
-M2e,Asasekiryu,184 cm 137.4 kg,3-12
-M2w,Kakizoe,177 cm 139 kg,6-9
-M3e,Shimotori,190 cm 152 kg,7-8
-M3w,Dejima,180 cm 165 kg,7-8
-M4e,Tokitsuumi,185 cm 137.5 kg,7-8
-M4w,Takamisakari,188.5 cm 133.5 kg,6-9
-M5e,Kotonowaka,191 cm 176 kg,8-7
-M5w,Tamanoshima,188 cm 156 kg,12-3 G â
-M6e,Buyuzan,181 cm 164 kg,4-11
-M6w,Iwakiyama,185 cm 175 kg,10-5
-M7e,Kokkai,188 cm 151 kg,10-5
-M7w,Kyokushuzan,182.5 cm 138.4 kg,9-6
-M8e,Takekaze,172 cm 142 kg,9-6
-M8w,Tochisakae,183 cm 150.4 kg,7-8
-M9e,Kotoryu,182.5 cm 140.2 kg,10-5
-M9w,Tosanoumi,187 cm 156 kg,7-8
-M10e,Harunoyama,188 cm 177 kg,4-11
-M10w,Toki,190.5 cm 172 kg,4-11
-M11e,Aminishiki,184 cm 126.5 kg,8-7
-M11w,Hayateumi,185 cm 118.8 kg,8-7
-M12e,Kaiho,178 cm 125 kg,9-6
-M12w,Jumonji,186 cm 155.5 kg,8-7
-M13e,Takanonami,196 cm 163.5 kg,0-3
-M13w,Kinkaiyama,184 cm 163 kg,8-7
-M14e,Kasuganishiki,187 cm 148.5 kg,0-0-15 â
-M14w,Asanowaka,176 cm 140 kg,4-11 â
-M15e,Ushiomaru,176.5 cm 166 kg,0-0-15 â
-M15w,Futeno,181 cm 161 kg,7-8
-M16e,Hakuho,190.5 cm 135 kg,12-3 K
-M16w,Takanowaka,190 cm 152 kg,8-7
-M17e,Kobo,183 cm 132 kg,5-10 â
+basho,rank,rikishi,height,weight
+2004.05,Y1e,Asashoryu,185,140
+2004.05,O1e,Chiyotaikai,181,155
+2004.05,O1w,Kaio,185,175
+2004.05,O2e,Musoyama,184,175
+2004.05,O2w,Tochiazuma,181,151
+2004.05,S1e,Wakanosato,185,150.2
+2004.05,S1w,Kyokutenho,191,149
+2004.05,K1e,Miyabiyama,187.5,179
+2004.05,K1w,Kotomitsuki,181.5,153.8
+2004.05,M1e,Tochinonada,186.5,163.9
+2004.05,M1w,Hokutoriki,182.5,153
+2004.05,M2e,Asasekiryu,184,137.4
+2004.05,M2w,Kakizoe,177,139
+2004.05,M3e,Shimotori,190,152
+2004.05,M3w,Dejima,180,165
+2004.05,M4e,Tokitsuumi,185,137.5
+2004.05,M4w,Takamisakari,188.5,133.5
+2004.05,M5e,Kotonowaka,191,176
+2004.05,M5w,Tamanoshima,188,156
+2004.05,M6e,Buyuzan,181,164
+2004.05,M6w,Iwakiyama,185,175
+2004.05,M7e,Kokkai,188,151
+2004.05,M7w,Kyokushuzan,182.5,138.4
+2004.05,M8e,Takekaze,172,142
+2004.05,M8w,Tochisakae,183,150.4
+2004.05,M9e,Kotoryu,182.5,140.2
+2004.05,M9w,Tosanoumi,187,156
+2004.05,M10e,Harunoyama,188,177
+2004.05,M10w,Toki,190.5,172
+2004.05,M11e,Aminishiki,184,126.5
+2004.05,M11w,Hayateumi,185,118.8
+2004.05,M12e,Kaiho,178,125
+2004.05,M12w,Jumonji,186,155.5
+2004.05,M13e,Takanonami,196,163.5
+2004.05,M13w,Kinkaiyama,184,163
+2004.05,M14e,Kasuganishiki,187,148.5
+2004.05,M14w,Asanowaka,176,140
+2004.05,M15e,Ushiomaru,176.5,166
+2004.05,M15w,Futeno,181,161
+2004.05,M16e,Hakuho,190.5,135
+2004.05,M16w,Takanowaka,190,152
+2004.05,M17e,Kobo,183,132

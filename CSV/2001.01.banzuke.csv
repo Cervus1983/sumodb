@@ -1,41 +1,41 @@
-Rank,Rikishi,Height/Weight,Result
-Y1e,Akebono,203.5 cm 230.5 kg,0-0-15
-Y1w,Musashimaru,192 cm 230.5 kg,14-1 D
-Y2e,Takanohana,186.5 cm 152.5 kg,14-1 Y
-O1e,Kaio,185 cm 175 kg,10-5
-O1w,Chiyotaikai,181.5 cm 158.5 kg,2-2-11
-O2e,Dejima,180.6 cm 160 kg,7-8
-O2w,Miyabiyama,188 cm 175.5 kg,8-7
-O3w,Musoyama,184 cm 172 kg,9-6
-S1e,Wakanosato,184.5 cm 151.5 kg,10-5 S
-S1w,Kotomitsuki,180.7 cm 149.5 kg,4-11 â
-K1e,Takanowaka,190 cm 137.5 kg,4-11 â
-K1w,Tochinonada,187.5 cm 163.5 kg,9-6 G â
-M1e,Takanonami,196.6 cm 169.5 kg,6-9
-M1w,Tochisakae,184 cm 147 kg,4-11
-M2e,Kotonowaka,190.5 cm 173.5 kg,5-10
-M2w,Hayateumi,183.5 cm 129 kg,0-0-15
-M3e,Wakanoyama,177 cm 163.5 kg,9-6 K â
-M3w,Kaiho,178 cm 125 kg,4-11
-M4e,Akinoshima,175 cm 156.5 kg,7-8
-M4w,Tochiazuma,180.5 cm 147 kg,10-5 â
-M5e,Tosanoumi,186 cm 160 kg,6-9
-M5w,Tamakasuga,183 cm 148 kg,7-8
-M6e,Tochinohana,184.5 cm 148 kg,4-11
-M6w,Chiyotenzan,183.5 cm 150 kg,8-7
-M7e,Higonoumi,183 cm 148 kg,7-8
-M7w,Kotoryu,183 cm 149 kg,9-6
-M8e,Kyokutenho,191 cm 140 kg,10-5
-M8w,Toki,189.5 cm 173.5 kg,0-0-15 â
-M9e,Hamanoshima,179 cm 118 kg,6-9
-M9w,Tokitsuumi,184 cm 131.5 kg,8-7
-M10e,Kyokushuzan,182.5 cm 133.5 kg,8-7
-M10w,Oginishiki,186 cm 139 kg,0-2-13 â
-M11e,Kinkaiyama,183 cm 155 kg,6-9
-M11w,Minatofuji,186 cm 165.5 kg,6-9
-M12e,Takatoriki,180.5 cm 147.5 kg,8-7
-M12w,Asashoryu,184 cm 106 kg,9-6
-M13e,Daishi,182 cm 168.5 kg,7-8
-M13w,Tamarikido,183.5 cm 134 kg,6-9 â
-M14e,Asanowaka,176 cm 142.3 kg,8-7
-M14w,Wakakosho,184.5 cm 176 kg,6-9 â
+basho,rank,rikishi,height,weight
+2001.01,Y1e,Akebono,203.5,230.5
+2001.01,Y1w,Musashimaru,192,230.5
+2001.01,Y2e,Takanohana,186.5,152.5
+2001.01,O1e,Kaio,185,175
+2001.01,O1w,Chiyotaikai,181.5,158.5
+2001.01,O2e,Dejima,180.6,160
+2001.01,O2w,Miyabiyama,188,175.5
+2001.01,O3w,Musoyama,184,172
+2001.01,S1e,Wakanosato,184.5,151.5
+2001.01,S1w,Kotomitsuki,180.7,149.5
+2001.01,K1e,Takanowaka,190,137.5
+2001.01,K1w,Tochinonada,187.5,163.5
+2001.01,M1e,Takanonami,196.6,169.5
+2001.01,M1w,Tochisakae,184,147
+2001.01,M2e,Kotonowaka,190.5,173.5
+2001.01,M2w,Hayateumi,183.5,129
+2001.01,M3e,Wakanoyama,177,163.5
+2001.01,M3w,Kaiho,178,125
+2001.01,M4e,Akinoshima,175,156.5
+2001.01,M4w,Tochiazuma,180.5,147
+2001.01,M5e,Tosanoumi,186,160
+2001.01,M5w,Tamakasuga,183,148
+2001.01,M6e,Tochinohana,184.5,148
+2001.01,M6w,Chiyotenzan,183.5,150
+2001.01,M7e,Higonoumi,183,148
+2001.01,M7w,Kotoryu,183,149
+2001.01,M8e,Kyokutenho,191,140
+2001.01,M8w,Toki,189.5,173.5
+2001.01,M9e,Hamanoshima,179,118
+2001.01,M9w,Tokitsuumi,184,131.5
+2001.01,M10e,Kyokushuzan,182.5,133.5
+2001.01,M10w,Oginishiki,186,139
+2001.01,M11e,Kinkaiyama,183,155
+2001.01,M11w,Minatofuji,186,165.5
+2001.01,M12e,Takatoriki,180.5,147.5
+2001.01,M12w,Asashoryu,184,106
+2001.01,M13e,Daishi,182,168.5
+2001.01,M13w,Tamarikido,183.5,134
+2001.01,M14e,Asanowaka,176,142.3
+2001.01,M14w,Wakakosho,184.5,176

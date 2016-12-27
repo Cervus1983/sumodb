@@ -1,43 +1,43 @@
-Rank,Rikishi,Height/Weight,Result
-Y1e,Hakuho,191 cm 153.5 kg,12-3 J
-O1e,Baruto,197 cm 184 kg,14-1 Y
-O1w,Kotoshogiku,179 cm 174 kg,8-7
-O2e,Kotooshu,203 cm 154.5 kg,10-5
-O2w,Harumafuji,186 cm 128 kg,11-4
-O3w,Kisenosato,188 cm 171 kg,11-4
-S1e,Kakuryu,187 cm 143.5 kg,10-5 S
-S1w,Toyonoshima,169 cm 146.2 kg,5-10 â
-K1e,Miyabiyama,187 cm 186 kg,3-12 â
-K1w,Wakakoyu,180 cm 167 kg,5-10 â
-M1e,Takekaze,171.5 cm 146.7 kg,4-11
-M1w,Aminishiki,185 cm 149 kg,9-6 â
-M2e,Okinoumi,192 cm 155.5 kg,4-11
-M2w,Goeido,183 cm 141 kg,6-9
-M3e,Kitataiki,185 cm 149.5 kg,2-13
-M3w,Takayasu,185 cm 155 kg,6-9
-M4e,Homasho,186 cm 151 kg,7-8
-M4w,Tochinowaka,196 cm 179.5 kg,8-7
-M5e,Myogiryu,187 cm 140.2 kg,9-6 G
-M5w,Toyohibiki,185 cm 176.6 kg,7-8
-M6e,Yoshikaze,176 cm 136 kg,9-6
-M6w,Kyokutenho,191 cm 158.4 kg,9-6
-M7e,Aran,187 cm 154.4 kg,8-7
-M7w,Aoiyama,190 cm 173.5 kg,6-9
-M8e,Shohozan,177 cm 133.6 kg,8-7
-M8w,Tochiozan,189 cm 148.5 kg,11-4 â
-M9e,Tochinoshin,192 cm 158 kg,10-5
-M9w,Daido,187 cm 160.5 kg,6-9
-M10e,Tokitenku,186 cm 145 kg,11-4
-M10w,Gagamaru,185 cm 198.7 kg,12-3 JK â
-M11e,Fujiazuma,181 cm 182.5 kg,7-8
-M11w,Sadanofuji,189 cm 170.5 kg,8-7
-M12e,Yoshiazuma,197 cm 166 kg,3-12 â
-M12w,Tosayutaka,178 cm 139 kg,4-11 â
-M13e,Chiyonokuni,183 cm 138.5 kg,9-5-1
-M13w,Tenkaiho,183 cm 191 kg,8-7
-M14e,Takanoyama,185 cm 98 kg,6-9
-M14w,Sagatsukasa,166 cm 134 kg,5-10 â
-M15e,Asasekiryu,184 cm 149.6 kg,9-6
-M15w,Kyokushuho,190 cm 144 kg,3-12 â
-M16e,Kaisei,194 cm 179.5 kg,5-10 â
-M16w,Nionoumi,173 cm 144 kg,5-10 â
+basho,rank,rikishi,height,weight
+2012.01,Y1e,Hakuho,191,153.5
+2012.01,O1e,Baruto,197,184
+2012.01,O1w,Kotoshogiku,179,174
+2012.01,O2e,Kotooshu,203,154.5
+2012.01,O2w,Harumafuji,186,128
+2012.01,O3w,Kisenosato,188,171
+2012.01,S1e,Kakuryu,187,143.5
+2012.01,S1w,Toyonoshima,169,146.2
+2012.01,K1e,Miyabiyama,187,186
+2012.01,K1w,Wakakoyu,180,167
+2012.01,M1e,Takekaze,171.5,146.7
+2012.01,M1w,Aminishiki,185,149
+2012.01,M2e,Okinoumi,192,155.5
+2012.01,M2w,Goeido,183,141
+2012.01,M3e,Kitataiki,185,149.5
+2012.01,M3w,Takayasu,185,155
+2012.01,M4e,Homasho,186,151
+2012.01,M4w,Tochinowaka,196,179.5
+2012.01,M5e,Myogiryu,187,140.2
+2012.01,M5w,Toyohibiki,185,176.6
+2012.01,M6e,Yoshikaze,176,136
+2012.01,M6w,Kyokutenho,191,158.4
+2012.01,M7e,Aran,187,154.4
+2012.01,M7w,Aoiyama,190,173.5
+2012.01,M8e,Shohozan,177,133.6
+2012.01,M8w,Tochiozan,189,148.5
+2012.01,M9e,Tochinoshin,192,158
+2012.01,M9w,Daido,187,160.5
+2012.01,M10e,Tokitenku,186,145
+2012.01,M10w,Gagamaru,185,198.7
+2012.01,M11e,Fujiazuma,181,182.5
+2012.01,M11w,Sadanofuji,189,170.5
+2012.01,M12e,Yoshiazuma,197,166
+2012.01,M12w,Tosayutaka,178,139
+2012.01,M13e,Chiyonokuni,183,138.5
+2012.01,M13w,Tenkaiho,183,191
+2012.01,M14e,Takanoyama,185,98
+2012.01,M14w,Sagatsukasa,166,134
+2012.01,M15e,Asasekiryu,184,149.6
+2012.01,M15w,Kyokushuho,190,144
+2012.01,M16e,Kaisei,194,179.5
+2012.01,M16w,Nionoumi,173,144

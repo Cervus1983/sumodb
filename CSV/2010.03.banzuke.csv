@@ -1,42 +1,42 @@
-Rank,Rikishi,Height/Weight,Result
-Y1e,Hakuho,192 cm 153.8 kg,15-0 Y
-O1e,Harumafuji,185 cm 129.1 kg,10-5
-O1w,Kotooshu,203 cm 150.1 kg,10-5
-O2e,Kaio,184.5 cm 173 kg,8-7
-O2w,Kotomitsuki,182 cm 156 kg,9-6
-S1e,Baruto,197.5 cm 186.8 kg,14-1 JGK â
-S1w,Toyonoshima,171 cm 148.8 kg,6-9 â
-K1e,Kisenosato,188.5 cm 167.1 kg,9-6 â
-K1w,Aminishiki,185 cm 146.6 kg,8-7 â
-M1e,Kakuryu,186 cm 139.5 kg,6-9
-M1w,Wakanosato,183.5 cm 156.6 kg,6-9
-M2e,Kyokutenho,191 cm 159 kg,3-12
-M2w,Aran,187 cm 154.4 kg,1-14
-M3e,Goeido,183 cm 149 kg,2-4-9
-M3w,Kotoshogiku,180 cm 172.4 kg,10-5 â
-M4e,Tamawashi,190 cm 157.2 kg,5-10
-M4w,Tosayutaka,179 cm 141.5 kg,3-12
-M5e,Toyohibiki,184 cm 169.5 kg,4-11
-M5w,Homasho,185 cm 149.6 kg,9-6
-M6e,Tochiozan,188 cm 150.6 kg,11-4 â
-M6w,Tochinoshin,191.5 cm 159 kg,9-6
-M7e,Miyabiyama,186 cm 182.2 kg,10-5
-M7w,Kakizoe,176.5 cm 138.6 kg,7-8
-M8e,Iwakiyama,183.5 cm 171.5 kg,8-7
-M8w,Takekaze,171.5 cm 142.3 kg,5-10
-M9e,Hakuba,186 cm 126.2 kg,8-7
-M9w,Yoshikaze,178 cm 139 kg,5-10
-M10e,Kitataiki,184.5 cm 143.8 kg,10-5
-M10w,Shimotori,188 cm 140.2 kg,5-10
-M11e,Asasekiryu,184.5 cm 149 kg,10-5
-M11w,Hokutoriki,182 cm 150.9 kg,6-9
-M12e,Okinoumi,190 cm 134.5 kg,8-7
-M12w,Takamisakari,188 cm 142.1 kg,7-8
-M13e,Tokitenku,186 cm 150 kg,10-5
-M13w,Tokusegawa,190 cm 154.4 kg,8-7
-M14e,Kokkai,189 cm 148.7 kg,10-5
-M14w,Tamanoshima,187 cm 164.5 kg,6-9
-M15e,Sagatsukasa,166 cm 128.8 kg,6-9 â
-M15w,Mokonami,186.5 cm 152 kg,9-6
-M16e,Kasugao,183 cm 146.5 kg,5-10 â
-M16w,Bushuyama,191 cm 172.4 kg,4-11 â
+basho,rank,rikishi,height,weight
+2010.03,Y1e,Hakuho,192,153.8
+2010.03,O1e,Harumafuji,185,129.1
+2010.03,O1w,Kotooshu,203,150.1
+2010.03,O2e,Kaio,184.5,173
+2010.03,O2w,Kotomitsuki,182,156
+2010.03,S1e,Baruto,197.5,186.8
+2010.03,S1w,Toyonoshima,171,148.8
+2010.03,K1e,Kisenosato,188.5,167.1
+2010.03,K1w,Aminishiki,185,146.6
+2010.03,M1e,Kakuryu,186,139.5
+2010.03,M1w,Wakanosato,183.5,156.6
+2010.03,M2e,Kyokutenho,191,159
+2010.03,M2w,Aran,187,154.4
+2010.03,M3e,Goeido,183,149
+2010.03,M3w,Kotoshogiku,180,172.4
+2010.03,M4e,Tamawashi,190,157.2
+2010.03,M4w,Tosayutaka,179,141.5
+2010.03,M5e,Toyohibiki,184,169.5
+2010.03,M5w,Homasho,185,149.6
+2010.03,M6e,Tochiozan,188,150.6
+2010.03,M6w,Tochinoshin,191.5,159
+2010.03,M7e,Miyabiyama,186,182.2
+2010.03,M7w,Kakizoe,176.5,138.6
+2010.03,M8e,Iwakiyama,183.5,171.5
+2010.03,M8w,Takekaze,171.5,142.3
+2010.03,M9e,Hakuba,186,126.2
+2010.03,M9w,Yoshikaze,178,139
+2010.03,M10e,Kitataiki,184.5,143.8
+2010.03,M10w,Shimotori,188,140.2
+2010.03,M11e,Asasekiryu,184.5,149
+2010.03,M11w,Hokutoriki,182,150.9
+2010.03,M12e,Okinoumi,190,134.5
+2010.03,M12w,Takamisakari,188,142.1
+2010.03,M13e,Tokitenku,186,150
+2010.03,M13w,Tokusegawa,190,154.4
+2010.03,M14e,Kokkai,189,148.7
+2010.03,M14w,Tamanoshima,187,164.5
+2010.03,M15e,Sagatsukasa,166,128.8
+2010.03,M15w,Mokonami,186.5,152
+2010.03,M16e,Kasugao,183,146.5
+2010.03,M16w,Bushuyama,191,172.4

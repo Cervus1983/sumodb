@@ -1,43 +1,43 @@
-Rank,Rikishi,Height/Weight,Result
-Y1e,Hakuho,193 cm 150.7 kg,14-1 Y
-Y1w,Kakuryu,186 cm 150 kg,11-4
-Y2e,Harumafuji,185 cm 135 kg,3-2-10
-O1e,Kotoshogiku,180 cm 177 kg,9-6
-O1w,Kisenosato,188 cm 177 kg,9-6
-O2w,Goeido,183 cm 158.2 kg,8-7
-S1e,Myogiryu,187 cm 148 kg,0-0-15 â
-S1w,Takekaze,170 cm 144 kg,7-8 â
-K1e,Jokoryu,187 cm 162.4 kg,4-11 â
-K1w,Chiyotairyu,182 cm 166.8 kg,1-10-4 â
-M1e,Terunofuji,192 cm 158.5 kg,6-9
-M1w,Endo,183 cm 145.6 kg,3-12
-M2e,Takayasu,187 cm 163 kg,7-8
-M2w,Toyonoshima,169 cm 149.4 kg,6-6-3
-M3e,Aoiyama,192 cm 192.6 kg,10-5 â
-M3w,Yoshikaze,175 cm 140.3 kg,7-8
-M4e,Takarafuji,186 cm 161.1 kg,8-7
-M4w,Osunaarashi,189 cm 146 kg,7-8
-M5e,Toyohibiki,185 cm 185.2 kg,8-7
-M5w,Ikioi,194 cm 157 kg,10-5 â
-M6e,Aminishiki,186 cm 152 kg,10-5 G
-M6w,Kaisei,195 cm 187.8 kg,8-7
-M7e,Shohozan,177 cm 134.5 kg,6-9
-M7w,Chiyootori,179 cm 178.5 kg,8-7
-M8e,Tochiozan,189 cm 154 kg,11-4
-M8w,Arawashi,184 cm 122 kg,5-10
-M9e,Tamawashi,190 cm 161 kg,7-8
-M9w,Tochinowaka,196 cm 181 kg,4-11
-M10e,Ichinojo,190 cm 183 kg,13-2 JSK â
-M10w,Kitataiki,185 cm 149 kg,7-8
-M11e,Chiyomaru,178 cm 176.3 kg,4-11
-M11w,Takanoiwa,181 cm 145.5 kg,7-8
-M12e,Sadanoumi,184 cm 131.2 kg,8-7
-M12w,Sadanofuji,189 cm 200.5 kg,4-11 â
-M13e,Homasho,185 cm 149 kg,0-0-15 â
-M13w,Sokokurai,185 cm 131.6 kg,7-8
-M14e,Kyokutenho,191 cm 156 kg,8-7
-M14w,Azumaryu,192 cm 147.2 kg,0-0-15 â
-M15e,Kyokushuho,191 cm 149.6 kg,7-8
-M15w,Okinoumi,190 cm 154 kg,10-5
-M16e,Tokitenku,186 cm 143 kg,6-9 â
-M16w,Kagamio,182 cm 136 kg,6-9 â
+basho,rank,rikishi,height,weight
+2014.09,Y1e,Hakuho,193,150.7
+2014.09,Y1w,Kakuryu,186,150
+2014.09,Y2e,Harumafuji,185,135
+2014.09,O1e,Kotoshogiku,180,177
+2014.09,O1w,Kisenosato,188,177
+2014.09,O2w,Goeido,183,158.2
+2014.09,S1e,Myogiryu,187,148
+2014.09,S1w,Takekaze,170,144
+2014.09,K1e,Jokoryu,187,162.4
+2014.09,K1w,Chiyotairyu,182,166.8
+2014.09,M1e,Terunofuji,192,158.5
+2014.09,M1w,Endo,183,145.6
+2014.09,M2e,Takayasu,187,163
+2014.09,M2w,Toyonoshima,169,149.4
+2014.09,M3e,Aoiyama,192,192.6
+2014.09,M3w,Yoshikaze,175,140.3
+2014.09,M4e,Takarafuji,186,161.1
+2014.09,M4w,Osunaarashi,189,146
+2014.09,M5e,Toyohibiki,185,185.2
+2014.09,M5w,Ikioi,194,157
+2014.09,M6e,Aminishiki,186,152
+2014.09,M6w,Kaisei,195,187.8
+2014.09,M7e,Shohozan,177,134.5
+2014.09,M7w,Chiyootori,179,178.5
+2014.09,M8e,Tochiozan,189,154
+2014.09,M8w,Arawashi,184,122
+2014.09,M9e,Tamawashi,190,161
+2014.09,M9w,Tochinowaka,196,181
+2014.09,M10e,Ichinojo,190,183
+2014.09,M10w,Kitataiki,185,149
+2014.09,M11e,Chiyomaru,178,176.3
+2014.09,M11w,Takanoiwa,181,145.5
+2014.09,M12e,Sadanoumi,184,131.2
+2014.09,M12w,Sadanofuji,189,200.5
+2014.09,M13e,Homasho,185,149
+2014.09,M13w,Sokokurai,185,131.6
+2014.09,M14e,Kyokutenho,191,156
+2014.09,M14w,Azumaryu,192,147.2
+2014.09,M15e,Kyokushuho,191,149.6
+2014.09,M15w,Okinoumi,190,154
+2014.09,M16e,Tokitenku,186,143
+2014.09,M16w,Kagamio,182,136

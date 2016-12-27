@@ -1,43 +1,43 @@
-Rank,Rikishi,Height/Weight,Result
-Y1e,Hakuho,191.5 cm 152.2 kg,14-1 D
-Y1w,Asashoryu,184 cm 148 kg,12-3
-O1e,Kotooshu,203 cm 154.9 kg,9-6
-O1w,Harumafuji,185 cm 126 kg,14-1 Y
-O2e,Kaio,184 cm 171.3 kg,8-7
-O2w,Kotomitsuki,182 cm 156 kg,8-7
-O3e,Chiyotaikai,181 cm 154.1 kg,8-7
-S1e,Baruto,198 cm 177.9 kg,4-11 â
-S1w,Goeido,182 cm 148.5 kg,6-9 â
-K1e,Kakuryu,187 cm 136.6 kg,9-6 G â
-K1w,Tochiozan,189.5 cm 147 kg,6-9 â
-M1e,Homasho,187 cm 150.4 kg,1-14
-M1w,Aminishiki,185 cm 143.6 kg,5-10
-M2e,Takekaze,171 cm 142 kg,4-11
-M2w,Kyokutenho,191.5 cm 158.2 kg,8-7 â
-M3e,Tamanoshima,187 cm 164.1 kg,5-10
-M3w,Toyonoshima,170.5 cm 143.2 kg,5-10
-M4e,Kisenosato,188 cm 171.2 kg,13-2 K â
-M4w,Aran,187 cm 144 kg,8-7
-M5e,Tochinonada,187.5 cm 164.2 kg,5-10
-M5w,Yoshikaze,178 cm 134.8 kg,4-11
-M6e,Kotoshogiku,180 cm 162.8 kg,10-5 â
-M6w,Chiyohakuho,181.5 cm 135 kg,2-3-10 â
-M7e,Asasekiryu,185 cm 140.5 kg,5-10
-M7w,Wakanosato,185 cm 163.3 kg,0-0-15 â
-M8e,Iwakiyama,184 cm 177 kg,9-6
-M8w,Tamawashi,190 cm 155.4 kg,6-9
-M9e,Tokitenku,186 cm 142.8 kg,7-8
-M9w,Yamamotoyama,190 cm 251.5 kg,7-8
-M10e,Futeno,180.5 cm 157.2 kg,6-9
-M10w,Shimotori,188 cm 142 kg,6-9
-M11e,Miyabiyama,187 cm 183 kg,9-6
-M11w,Toyohibiki,185 cm 168 kg,11-4
-M12e,Takamisakari,187.5 cm 141.7 kg,9-6
-M12w,Dejima,180 cm 160.3 kg,7-8
-M13e,Hokutoriki,182 cm 150.8 kg,4-11 â
-M13w,Tochinoshin,191.5 cm 153.7 kg,9-6
-M14e,Kokkai,189.5 cm 153.9 kg,8-7
-M14w,Kakizoe,177 cm 137.8 kg,8-7
-M15e,Shotenro,189 cm 147 kg,8-7
-M15w,Bushuyama,191 cm 170.3 kg,9-6
-M16e,Kimurayama,182 cm 164 kg,5-10 â
+basho,rank,rikishi,height,weight
+2009.05,Y1e,Hakuho,191.5,152.2
+2009.05,Y1w,Asashoryu,184,148
+2009.05,O1e,Kotooshu,203,154.9
+2009.05,O1w,Harumafuji,185,126
+2009.05,O2e,Kaio,184,171.3
+2009.05,O2w,Kotomitsuki,182,156
+2009.05,O3e,Chiyotaikai,181,154.1
+2009.05,S1e,Baruto,198,177.9
+2009.05,S1w,Goeido,182,148.5
+2009.05,K1e,Kakuryu,187,136.6
+2009.05,K1w,Tochiozan,189.5,147
+2009.05,M1e,Homasho,187,150.4
+2009.05,M1w,Aminishiki,185,143.6
+2009.05,M2e,Takekaze,171,142
+2009.05,M2w,Kyokutenho,191.5,158.2
+2009.05,M3e,Tamanoshima,187,164.1
+2009.05,M3w,Toyonoshima,170.5,143.2
+2009.05,M4e,Kisenosato,188,171.2
+2009.05,M4w,Aran,187,144
+2009.05,M5e,Tochinonada,187.5,164.2
+2009.05,M5w,Yoshikaze,178,134.8
+2009.05,M6e,Kotoshogiku,180,162.8
+2009.05,M6w,Chiyohakuho,181.5,135
+2009.05,M7e,Asasekiryu,185,140.5
+2009.05,M7w,Wakanosato,185,163.3
+2009.05,M8e,Iwakiyama,184,177
+2009.05,M8w,Tamawashi,190,155.4
+2009.05,M9e,Tokitenku,186,142.8
+2009.05,M9w,Yamamotoyama,190,251.5
+2009.05,M10e,Futeno,180.5,157.2
+2009.05,M10w,Shimotori,188,142
+2009.05,M11e,Miyabiyama,187,183
+2009.05,M11w,Toyohibiki,185,168
+2009.05,M12e,Takamisakari,187.5,141.7
+2009.05,M12w,Dejima,180,160.3
+2009.05,M13e,Hokutoriki,182,150.8
+2009.05,M13w,Tochinoshin,191.5,153.7
+2009.05,M14e,Kokkai,189.5,153.9
+2009.05,M14w,Kakizoe,177,137.8
+2009.05,M15e,Shotenro,189,147
+2009.05,M15w,Bushuyama,191,170.3
+2009.05,M16e,Kimurayama,182,164

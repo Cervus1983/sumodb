@@ -15,7 +15,7 @@ tournament <- apply(
 sapply(
 	tournament,
 	function(x) write.csv(
-		sumodbBanzukeQuery(basho = gsub("\\.", "", x)), # remove dot from basho year-month
+		sumodbBanzukeQuery(basho = x),
 		file = paste0("CSV/", x, ".banzuke.csv"),
 		quote = FALSE,
 		row.names = FALSE

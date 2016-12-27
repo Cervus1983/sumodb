@@ -1,41 +1,41 @@
-Rank,Rikishi,Height/Weight,Result
-Y1e,Musashimaru,192 cm 231.5 kg,0-0-15
-Y1w,Asashoryu,183.5 cm 140.2 kg,10-5 J
-O1e,Musoyama,184 cm 171.5 kg,1-6-8
-O1w,Tochiazuma,181 cm 147.5 kg,0-0-15
-O2e,Chiyotaikai,181 cm 155 kg,12-3 Y
-O2w,Kaio,184.5 cm 172 kg,10-5 J
-S1e,Takanowaka,191 cm 152 kg,0-0-15 â
-S1w,Kotomitsuki,182 cm 146.7 kg,6-9 â
-S2e,Wakanosato,185.5 cm 153.3 kg,9-6
-K1e,Dejima,182 cm 159.5 kg,8-7 â
-K1w,Tosanoumi,185.5 cm 160.7 kg,8-7
-M1e,Takanonami,196.5 cm 165 kg,7-8
-M1w,Kyokutenho,190.5 cm 144.5 kg,9-6 K â
-M2e,Tochinonada,188 cm 161.4 kg,9-6
-M2w,Takamisakari,188.5 cm 134.6 kg,8-7 G
-M3e,Shimotori,188 cm 152 kg,3-7-5
-M3w,Kotonowaka,191 cm 177.6 kg,7-8
-M4e,Wakanoyama,178 cm 160 kg,4-11
-M4w,Tamanoshima,188 cm 155 kg,8-7
-M5e,Kotoryu,182 cm 141.5 kg,5-10
-M5w,Kaiho,177.5 cm 123.7 kg,8-7
-M6e,Iwakiyama,185 cm 173.5 kg,6-5-4
-M6w,Toki,189.5 cm 170.4 kg,5-10
-M7e,Kasugao,183.5 cm 143.5 kg,8-7
-M7w,Kyokushuzan,181 cm 144.4 kg,10-5 J
-M8e,Tokitsuumi,184.5 cm 134.3 kg,8-5-2
-M8w,Takanotsuru,188 cm 168.4 kg,4-11
-M9e,Aminishiki,185 cm 121 kg,8-7
-M9w,Miyabiyama,187.5 cm 178 kg,9-6
-M10e,Asasekiryu,183 cm 134.7 kg,6-9
-M10w,Buyuzan,181 cm 158.2 kg,7-8
-M11e,Hokutoriki,183 cm 148.6 kg,10-5 J
-M11w,Tamarikido,184.5 cm 138.3 kg,8-7
-M12e,Kinkaiyama,184 cm 156 kg,5-10 â
-M12w,Akinoshima,175 cm 148.6 kg,6-9
-M13e,Kasuganishiki,187.5 cm 146.3 kg,6-9 â
-M13w,Takekaze,170.5 cm 140.3 kg,1-3-11 â
-M14e,Gojoro,191 cm 156.4 kg,9-6
-M14w,Jumonji,185.5 cm 150 kg,9-6
-M15e,Tochinohana,185 cm 146.9 kg,5-10 â
+basho,rank,rikishi,height,weight
+2003.03,Y1e,Musashimaru,192,231.5
+2003.03,Y1w,Asashoryu,183.5,140.2
+2003.03,O1e,Musoyama,184,171.5
+2003.03,O1w,Tochiazuma,181,147.5
+2003.03,O2e,Chiyotaikai,181,155
+2003.03,O2w,Kaio,184.5,172
+2003.03,S1e,Takanowaka,191,152
+2003.03,S1w,Kotomitsuki,182,146.7
+2003.03,S2e,Wakanosato,185.5,153.3
+2003.03,K1e,Dejima,182,159.5
+2003.03,K1w,Tosanoumi,185.5,160.7
+2003.03,M1e,Takanonami,196.5,165
+2003.03,M1w,Kyokutenho,190.5,144.5
+2003.03,M2e,Tochinonada,188,161.4
+2003.03,M2w,Takamisakari,188.5,134.6
+2003.03,M3e,Shimotori,188,152
+2003.03,M3w,Kotonowaka,191,177.6
+2003.03,M4e,Wakanoyama,178,160
+2003.03,M4w,Tamanoshima,188,155
+2003.03,M5e,Kotoryu,182,141.5
+2003.03,M5w,Kaiho,177.5,123.7
+2003.03,M6e,Iwakiyama,185,173.5
+2003.03,M6w,Toki,189.5,170.4
+2003.03,M7e,Kasugao,183.5,143.5
+2003.03,M7w,Kyokushuzan,181,144.4
+2003.03,M8e,Tokitsuumi,184.5,134.3
+2003.03,M8w,Takanotsuru,188,168.4
+2003.03,M9e,Aminishiki,185,121
+2003.03,M9w,Miyabiyama,187.5,178
+2003.03,M10e,Asasekiryu,183,134.7
+2003.03,M10w,Buyuzan,181,158.2
+2003.03,M11e,Hokutoriki,183,148.6
+2003.03,M11w,Tamarikido,184.5,138.3
+2003.03,M12e,Kinkaiyama,184,156
+2003.03,M12w,Akinoshima,175,148.6
+2003.03,M13e,Kasuganishiki,187.5,146.3
+2003.03,M13w,Takekaze,170.5,140.3
+2003.03,M14e,Gojoro,191,156.4
+2003.03,M14w,Jumonji,185.5,150
+2003.03,M15e,Tochinohana,185,146.9

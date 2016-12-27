@@ -1,43 +1,43 @@
-Rank,Rikishi,Height/Weight,Result
-Y1e,Asashoryu,184 cm 142.6 kg,11-4
-O1e,Chiyotaikai,181.5 cm 155 kg,4-4-7
-O1w,Kaio,184.5 cm 173.5 kg,3-6-6
-O2e,Tochiazuma,180 cm 148.5 kg,14-1 Y
-O2w,Kotooshu,202 cm 140 kg,10-5
-S1e,Kotomitsuki,182 cm 154 kg,8-7
-S1w,Hakuho,191.5 cm 141 kg,13-2 JS
-K1e,Kyokutenho,191 cm 150 kg,4-11 â
-K1w,Tamanoshima,188 cm 156 kg,7-8 â
-M1e,Miyabiyama,188 cm 178 kg,8-7 â
-M1w,Tokitenku,186.5 cm 134 kg,5-10
-M2e,Roho,194 cm 146 kg,9-6 â
-M2w,Kokkai,189.5 cm 156 kg,8-7
-M3e,Takekaze,171 cm 139 kg,4-11
-M3w,Tochinohana,184 cm 141 kg,4-11
-M4e,Hakurozan,189.5 cm 138 kg,4-11
-M4w,Asasekiryu,185 cm 140 kg,5-10
-M5e,Iwakiyama,185 cm 174 kg,8-7
-M5w,Kasuganishiki,187 cm 148 kg,4-11
-M6e,Ama,186 cm 112.8 kg,9-6
-M6w,Dejima,180.5 cm 160 kg,8-7
-M7e,Aminishiki,184 cm 131 kg,9-6
-M7w,Kakizoe,177 cm 137 kg,8-7
-M8e,Jumonji,185 cm 156 kg,7-8
-M8w,Futeno,180.5 cm 155 kg,9-6
-M9e,Kisenosato,187.5 cm 155 kg,8-7
-M9w,Toyonoshima,171 cm 123.6 kg,7-8
-M10e,Takamisakari,188 cm 134.1 kg,7-8
-M10w,Kotoshogiku,179 cm 147 kg,8-7
-M11e,Hokutoriki,182.5 cm 153 kg,12-3 K
-M11w,Kyokushuzan,182 cm 143 kg,7-8
-M12e,Kasugao,183 cm 151.5 kg,9-6
-M12w,Toyozakura,183 cm 140 kg,7-8
-M13e,Tochisakae,183 cm 152 kg,4-10-1 â
-M13w,Yoshikaze,176.5 cm 129 kg,5-10
-M14e,Tosanoumi,186.5 cm 155 kg,5-10 â
-M14w,Tokitsuumi,183 cm 129 kg,12-3 G
-M15e,Shunketsu,177 cm 121 kg,4-11 â
-M15w,Wakatoba,175.5 cm 138 kg,4-11 â
-M16e,Wakanosato,185 cm 153 kg,10-5
-M16w,Katayama,179 cm 136 kg,6-9 â
-M17e,Kitazakura,189.5 cm 167 kg,9-6
+basho,rank,rikishi,height,weight
+2006.01,Y1e,Asashoryu,184,142.6
+2006.01,O1e,Chiyotaikai,181.5,155
+2006.01,O1w,Kaio,184.5,173.5
+2006.01,O2e,Tochiazuma,180,148.5
+2006.01,O2w,Kotooshu,202,140
+2006.01,S1e,Kotomitsuki,182,154
+2006.01,S1w,Hakuho,191.5,141
+2006.01,K1e,Kyokutenho,191,150
+2006.01,K1w,Tamanoshima,188,156
+2006.01,M1e,Miyabiyama,188,178
+2006.01,M1w,Tokitenku,186.5,134
+2006.01,M2e,Roho,194,146
+2006.01,M2w,Kokkai,189.5,156
+2006.01,M3e,Takekaze,171,139
+2006.01,M3w,Tochinohana,184,141
+2006.01,M4e,Hakurozan,189.5,138
+2006.01,M4w,Asasekiryu,185,140
+2006.01,M5e,Iwakiyama,185,174
+2006.01,M5w,Kasuganishiki,187,148
+2006.01,M6e,Ama,186,112.8
+2006.01,M6w,Dejima,180.5,160
+2006.01,M7e,Aminishiki,184,131
+2006.01,M7w,Kakizoe,177,137
+2006.01,M8e,Jumonji,185,156
+2006.01,M8w,Futeno,180.5,155
+2006.01,M9e,Kisenosato,187.5,155
+2006.01,M9w,Toyonoshima,171,123.6
+2006.01,M10e,Takamisakari,188,134.1
+2006.01,M10w,Kotoshogiku,179,147
+2006.01,M11e,Hokutoriki,182.5,153
+2006.01,M11w,Kyokushuzan,182,143
+2006.01,M12e,Kasugao,183,151.5
+2006.01,M12w,Toyozakura,183,140
+2006.01,M13e,Tochisakae,183,152
+2006.01,M13w,Yoshikaze,176.5,129
+2006.01,M14e,Tosanoumi,186.5,155
+2006.01,M14w,Tokitsuumi,183,129
+2006.01,M15e,Shunketsu,177,121
+2006.01,M15w,Wakatoba,175.5,138
+2006.01,M16e,Wakanosato,185,153
+2006.01,M16w,Katayama,179,136
+2006.01,M17e,Kitazakura,189.5,167

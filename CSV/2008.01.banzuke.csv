@@ -1,43 +1,43 @@
-Rank,Rikishi,Height/Weight,Result
-Y1e,Hakuho,192 cm 152.9 kg,14-1 Y
-Y1w,Asashoryu,184 cm 148 kg,13-2 J
-O1e,Chiyotaikai,181 cm 158.5 kg,0-8-7
-O1w,Kotomitsuki,182 cm 154 kg,8-7
-O2e,Kaio,184.5 cm 172.7 kg,8-7
-O2w,Kotooshu,203 cm 145.5 kg,9-6
-S1e,Aminishiki,185 cm 136 kg,5-10 â
-S1w,Ama,186 cm 124 kg,9-6 S
-K1e,Kotoshogiku,180 cm 150.5 kg,9-4-2 â
-K1w,Dejima,180 cm 156.5 kg,3-12 â
-M1e,Kisenosato,186 cm 160 kg,10-5 S â
-M1w,Tokitenku,187 cm 148 kg,6-9
-M2e,Toyonoshima,170 cm 135.4 kg,6-9
-M2w,Miyabiyama,188 cm 181.5 kg,7-8
-M3e,Goeido,182 cm 134.2 kg,5-10
-M3w,Tochinonada,187 cm 163 kg,5-10
-M4e,Wakanosato,184 cm 153.8 kg,7-8
-M4w,Asasekiryu,184.5 cm 136 kg,10-5
-M5e,Roho,195 cm 153 kg,7-8
-M5w,Tamakasuga,182 cm 154.5 kg,4-11
-M6e,Baruto,197 cm 174 kg,7-8
-M6w,Hokutoriki,182.5 cm 148 kg,7-8
-M7e,Takekaze,171 cm 138.5 kg,12-3 K â
-M7w,Homasho,187 cm 146 kg,4-11
-M8e,Kakuryu,187 cm 132.4 kg,11-4 G
-M8w,Toyohibiki,183.5 cm 172 kg,6-9
-M9e,Kokkai,189 cm 153 kg,9-6
-M9w,Wakakirin,185.5 cm 125.2 kg,4-11
-M10e,Wakanoho,195 cm 152 kg,10-5
-M10w,Kyokutenho,192 cm 155 kg,10-5
-M11e,Kakizoe,178 cm 138 kg,6-9
-M11w,Kasugao,184 cm 150 kg,8-7
-M12e,Futeno,180.5 cm 152.2 kg,8-7
-M12w,Tosanoumi,186 cm 157.3 kg,5-10 â
-M13e,Iwakiyama,184 cm 172.9 kg,9-6
-M13w,Tamanoshima,187.5 cm 156.8 kg,3-12 â
-M14e,Takamisakari,188 cm 135.8 kg,8-7
-M14w,Shimootori,188 cm 146 kg,1-1-13 â
-M15e,Tochiozan,187 cm 143.4 kg,8-7
-M15w,Yoshikaze,176.5 cm 126.5 kg,8-7
-M16e,Ichihara,180 cm 166.2 kg,8-7
-M16w,Kaiho,177 cm 121 kg,8-7
+basho,rank,rikishi,height,weight
+2008.01,Y1e,Hakuho,192,152.9
+2008.01,Y1w,Asashoryu,184,148
+2008.01,O1e,Chiyotaikai,181,158.5
+2008.01,O1w,Kotomitsuki,182,154
+2008.01,O2e,Kaio,184.5,172.7
+2008.01,O2w,Kotooshu,203,145.5
+2008.01,S1e,Aminishiki,185,136
+2008.01,S1w,Ama,186,124
+2008.01,K1e,Kotoshogiku,180,150.5
+2008.01,K1w,Dejima,180,156.5
+2008.01,M1e,Kisenosato,186,160
+2008.01,M1w,Tokitenku,187,148
+2008.01,M2e,Toyonoshima,170,135.4
+2008.01,M2w,Miyabiyama,188,181.5
+2008.01,M3e,Goeido,182,134.2
+2008.01,M3w,Tochinonada,187,163
+2008.01,M4e,Wakanosato,184,153.8
+2008.01,M4w,Asasekiryu,184.5,136
+2008.01,M5e,Roho,195,153
+2008.01,M5w,Tamakasuga,182,154.5
+2008.01,M6e,Baruto,197,174
+2008.01,M6w,Hokutoriki,182.5,148
+2008.01,M7e,Takekaze,171,138.5
+2008.01,M7w,Homasho,187,146
+2008.01,M8e,Kakuryu,187,132.4
+2008.01,M8w,Toyohibiki,183.5,172
+2008.01,M9e,Kokkai,189,153
+2008.01,M9w,Wakakirin,185.5,125.2
+2008.01,M10e,Wakanoho,195,152
+2008.01,M10w,Kyokutenho,192,155
+2008.01,M11e,Kakizoe,178,138
+2008.01,M11w,Kasugao,184,150
+2008.01,M12e,Futeno,180.5,152.2
+2008.01,M12w,Tosanoumi,186,157.3
+2008.01,M13e,Iwakiyama,184,172.9
+2008.01,M13w,Tamanoshima,187.5,156.8
+2008.01,M14e,Takamisakari,188,135.8
+2008.01,M14w,Shimootori,188,146
+2008.01,M15e,Tochiozan,187,143.4
+2008.01,M15w,Yoshikaze,176.5,126.5
+2008.01,M16e,Ichihara,180,166.2
+2008.01,M16w,Kaiho,177,121

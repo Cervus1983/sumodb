@@ -1,43 +1,43 @@
-Rank,Rikishi,Height/Weight,Result
-Y1e,Hakuho,192 cm 149 kg,14-1 Y
-O1e,Kaio,184 cm 172 kg,9-6
-O1w,Baruto,198 cm 188 kg,9-6
-O2e,Kotooshu,203 cm 153 kg,10-5
-O2w,Harumafuji,185 cm 130 kg,8-7
-S1e,Kisenosato,187 cm 173 kg,10-5 S
-S1w,Kotoshogiku,179 cm 174 kg,11-4 JG
-K1e,Tochiozan,189 cm 152 kg,6-9 â
-K1w,Kakuryu,186 cm 143 kg,8-7
-M1e,Toyonoshima,169 cm 141 kg,8-7 â
-M1w,Aminishiki,185 cm 148 kg,6-9
-M2e,Tochinoshin,191 cm 158 kg,4-11
-M2w,Yoshikaze,176 cm 140 kg,4-11
-M3e,Aran,187 cm 156 kg,5-10
-M3w,Tamawashi,189 cm 160 kg,5-10
-M4e,Homasho,186 cm 145 kg,8-7
-M4w,Tokusegawa,189 cm 158 kg,9-6
-M5e,Goeido,183 cm 145 kg,11-4 J
-M5w,Asasekiryu,184 cm 146 kg,6-9
-M6e,Kyokutenho,191 cm 157 kg,7-8
-M6w,Gagamaru,185 cm 202 kg,5-10
-M7e,Takekaze,171 cm 150 kg,8-7
-M7w,Tosayutaka,179 cm 140 kg,7-8
-M8e,Kitataiki,184 cm 146 kg,9-6
-M8w,Tokitenku,186 cm 149 kg,6-9
-M9e,Takamisakari,188 cm 145 kg,6-9
-M9w,Wakanosato,184 cm 158 kg,8-7
-M10e,Miyabiyama,185 cm 188 kg,6-9
-M10w,Hakuba,187 cm 124 kg,8-7
-M11e,Shotenro,189 cm 154 kg,8-7
-M11w,Shimotori,188 cm 144 kg,2-13 â
-M12e,Koryu,186 cm 153 kg,8-7
-M12w,Mokonami,187 cm 150 kg,8-7
-M13e,Okinoumi,191 cm 153 kg,11-4 JK
-M13w,Kotokasuga,182 cm 147 kg,8-7
-M14e,Wakakoyu,178 cm 170 kg,9-6
-M14w,Kimurayama,182 cm 177 kg,6-9
-M15e,Kokkai,190 cm 148 kg,3-12 â
-M15w,Toyohibiki,184 cm 161 kg,9-6
-M16e,Sokokurai,185 cm 130 kg,8-7 â
-M16w,Tochinonada,186 cm 160 kg,9-6
-M17e,Toyozakura,181 cm 134 kg,5-10 â
+basho,rank,rikishi,height,weight
+2011.01,Y1e,Hakuho,192,149
+2011.01,O1e,Kaio,184,172
+2011.01,O1w,Baruto,198,188
+2011.01,O2e,Kotooshu,203,153
+2011.01,O2w,Harumafuji,185,130
+2011.01,S1e,Kisenosato,187,173
+2011.01,S1w,Kotoshogiku,179,174
+2011.01,K1e,Tochiozan,189,152
+2011.01,K1w,Kakuryu,186,143
+2011.01,M1e,Toyonoshima,169,141
+2011.01,M1w,Aminishiki,185,148
+2011.01,M2e,Tochinoshin,191,158
+2011.01,M2w,Yoshikaze,176,140
+2011.01,M3e,Aran,187,156
+2011.01,M3w,Tamawashi,189,160
+2011.01,M4e,Homasho,186,145
+2011.01,M4w,Tokusegawa,189,158
+2011.01,M5e,Goeido,183,145
+2011.01,M5w,Asasekiryu,184,146
+2011.01,M6e,Kyokutenho,191,157
+2011.01,M6w,Gagamaru,185,202
+2011.01,M7e,Takekaze,171,150
+2011.01,M7w,Tosayutaka,179,140
+2011.01,M8e,Kitataiki,184,146
+2011.01,M8w,Tokitenku,186,149
+2011.01,M9e,Takamisakari,188,145
+2011.01,M9w,Wakanosato,184,158
+2011.01,M10e,Miyabiyama,185,188
+2011.01,M10w,Hakuba,187,124
+2011.01,M11e,Shotenro,189,154
+2011.01,M11w,Shimotori,188,144
+2011.01,M12e,Koryu,186,153
+2011.01,M12w,Mokonami,187,150
+2011.01,M13e,Okinoumi,191,153
+2011.01,M13w,Kotokasuga,182,147
+2011.01,M14e,Wakakoyu,178,170
+2011.01,M14w,Kimurayama,182,177
+2011.01,M15e,Kokkai,190,148
+2011.01,M15w,Toyohibiki,184,161
+2011.01,M16e,Sokokurai,185,130
+2011.01,M16w,Tochinonada,186,160
+2011.01,M17e,Toyozakura,181,134

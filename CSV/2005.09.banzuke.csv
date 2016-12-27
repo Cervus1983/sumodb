@@ -1,43 +1,43 @@
-Rank,Rikishi,Height/Weight,Result
-Y1e,Asashoryu,184 cm 142.6 kg,13-2 Y
-O1e,Kaio,184.5 cm 173.5 kg,0-4-11
-O1w,Tochiazuma,180 cm 148.5 kg,10-5
-O2w,Chiyotaikai,181.5 cm 155 kg,10-5
-S1e,Kotooshu,202 cm 140 kg,13-2 DK
-S1w,Wakanosato,185 cm 153 kg,4-3-8 â
-K1e,Kotomitsuki,182 cm 154 kg,9-6 â
-K1w,Futeno,180.5 cm 155 kg,5-10 â
-M1e,Miyabiyama,188 cm 178 kg,6-9
-M1w,Hakuho,191.5 cm 141 kg,9-6 â
-M2e,Kakizoe,177 cm 137 kg,7-8
-M2w,Kokkai,189.5 cm 156 kg,5-10
-M3e,Dejima,180.5 cm 160 kg,7-8
-M3w,Kyokutenho,191 cm 150 kg,10-5 â
-M4e,Iwakiyama,185 cm 174 kg,7-8
-M4w,Kyokushuzan,182 cm 143 kg,4-11
-M5e,Takamisakari,188 cm 134.1 kg,5-10
-M5w,Aminishiki,184 cm 131 kg,7-8
-M6e,Kotoshogiku,179 cm 147 kg,7-8
-M6w,Tokitenku,186.5 cm 134 kg,7-8
-M7e,Hokutoriki,182.5 cm 153 kg,8-7
-M7w,Kaiho,177.5 cm 120 kg,0-0-15 â
-M8e,Tosanoumi,186.5 cm 155 kg,6-9
-M8w,Tamanoshima,188 cm 156 kg,11-4
-M9e,Takekaze,171 cm 139 kg,7-8
-M9w,Tamaasuka,183.5 cm 142.5 kg,4-11
-M10e,Asasekiryu,185 cm 140 kg,6-2-7
-M10w,Roho,194 cm 146 kg,8-7
-M11e,Ama,186 cm 112.8 kg,9-6
-M11w,Toyozakura,183 cm 140 kg,4-11 â
-M12e,Hakurozan,189.5 cm 138 kg,7-8
-M12w,Ishide,177 cm 121 kg,7-8
-M13e,Kotonowaka,191 cm 174 kg,8-7
-M13w,Tochisakae,183 cm 152 kg,5-10 â
-M14e,Jumonji,185 cm 156 kg,6-9
-M14w,Tokitsuumi,183 cm 129 kg,4-11 â
-M15e,Takanowaka,190.5 cm 148 kg,9-6
-M15w,Wakatoba,175.5 cm 138 kg,8-7
-M16e,Kasugao,183 cm 151.5 kg,7-8
-M16w,Kisenosato,187.5 cm 155 kg,12-3 K
-M17e,Tochinonada,187.5 cm 165 kg,7-8
-M17w,Shimotori,189.5 cm 148 kg,8-7
+basho,rank,rikishi,height,weight
+2005.09,Y1e,Asashoryu,184,142.6
+2005.09,O1e,Kaio,184.5,173.5
+2005.09,O1w,Tochiazuma,180,148.5
+2005.09,O2w,Chiyotaikai,181.5,155
+2005.09,S1e,Kotooshu,202,140
+2005.09,S1w,Wakanosato,185,153
+2005.09,K1e,Kotomitsuki,182,154
+2005.09,K1w,Futeno,180.5,155
+2005.09,M1e,Miyabiyama,188,178
+2005.09,M1w,Hakuho,191.5,141
+2005.09,M2e,Kakizoe,177,137
+2005.09,M2w,Kokkai,189.5,156
+2005.09,M3e,Dejima,180.5,160
+2005.09,M3w,Kyokutenho,191,150
+2005.09,M4e,Iwakiyama,185,174
+2005.09,M4w,Kyokushuzan,182,143
+2005.09,M5e,Takamisakari,188,134.1
+2005.09,M5w,Aminishiki,184,131
+2005.09,M6e,Kotoshogiku,179,147
+2005.09,M6w,Tokitenku,186.5,134
+2005.09,M7e,Hokutoriki,182.5,153
+2005.09,M7w,Kaiho,177.5,120
+2005.09,M8e,Tosanoumi,186.5,155
+2005.09,M8w,Tamanoshima,188,156
+2005.09,M9e,Takekaze,171,139
+2005.09,M9w,Tamaasuka,183.5,142.5
+2005.09,M10e,Asasekiryu,185,140
+2005.09,M10w,Roho,194,146
+2005.09,M11e,Ama,186,112.8
+2005.09,M11w,Toyozakura,183,140
+2005.09,M12e,Hakurozan,189.5,138
+2005.09,M12w,Ishide,177,121
+2005.09,M13e,Kotonowaka,191,174
+2005.09,M13w,Tochisakae,183,152
+2005.09,M14e,Jumonji,185,156
+2005.09,M14w,Tokitsuumi,183,129
+2005.09,M15e,Takanowaka,190.5,148
+2005.09,M15w,Wakatoba,175.5,138
+2005.09,M16e,Kasugao,183,151.5
+2005.09,M16w,Kisenosato,187.5,155
+2005.09,M17e,Tochinonada,187.5,165
+2005.09,M17w,Shimotori,189.5,148

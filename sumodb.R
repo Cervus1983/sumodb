@@ -73,8 +73,8 @@ sumodbBoutQueryPages <- function(url) {
 
 
 # Bout Query wrapper
-# example (NB: dot in basho year-month): sumodbBoutQuery(basho = "2016.11", division = "m")
-# example: sumodbBoutQuery(basho = NA, shikona1 = "Hakuho", shikona2 = "Harumafuji")
+# example (results of a basho): sumodbBoutQuery(basho = "2016.11", division = "m")
+# example (head-to-head): sumodbBoutQuery(basho = NA, shikona1 = "Hakuho", shikona2 = "Harumafuji")
 sumodbBoutQuery <- function(
 	basho = substr(Sys.Date(), 1, 4), # default: this year
 	day = NA,
@@ -109,15 +109,30 @@ sumodbBoutQuery <- function(
 
 
 # Banzuke Query wrapper, returns Makuuchi Banzuke
-# example (NB: no dot in basho year-month): sumodbBanzukeQuery(basho = "201611")
+# example: sumodbBanzukeQuery(basho = "2016.11")
 sumodbBanzukeQuery <- function(basho) {
-	tryCatch(
+	df <- tryCatch(
 		readHTMLTable(
-			doc = paste0("http://sumodb.sumogames.de/Banzuke.aspx?b=", basho, "&w=on&c=on"),
+			doc = paste0("http://sumodb.sumogames.de/Banzuke.aspx?b=", gsub("\\.", "", basho), "&w=on&c=on"),
 			trim = TRUE,
 			which = 6 # found by trial & error
 		),
 		error = function(e) {},
 		warning = function(w) {}
 	)
+	
+	if(!is.null(df)) df %>%
+		setNames(tolower(names(.))) %>%
+		mutate(basho = basho) %>%
+		select(
+			basho,
+			rank,
+			rikishi,
+			`height/weight`
+		) %>%
+		mutate(
+			height = as.numeric(str_match(`height/weight`, "([0-9.]+) cm")[, 2]),
+			weight = as.numeric(str_match(`height/weight`, "([0-9.]+) kg")[, 2])
+		) %>%
+		select(-`height/weight`)
 }
