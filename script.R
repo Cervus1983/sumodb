@@ -13,7 +13,7 @@ tournament <- apply(
 
 # banzuke
 sapply(
-	tournament,
+	c(tournament, "2017.01"),
 	function(x) write.csv(
 		sumodbBanzukeQuery(basho = x),
 		file = paste0("CSV/", x, ".banzuke.csv"),
@@ -26,7 +26,7 @@ sapply(
 sapply(
 	tournament,
 	function(x) write.csv(
-		sumodbBoutQuery(basho = x, division = "m"),
+		sumodbBoutQuery(basho = x),
 		file = paste0("CSV/", x, ".results.csv"),
 		quote = FALSE,
 		row.names = FALSE

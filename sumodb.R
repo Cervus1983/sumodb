@@ -8,6 +8,45 @@ library(XML)
 options(stringsAsFactors = FALSE)
 
 
+# Banzuke Query wrapper, returns Makuuchi Banzuke
+# example: sumodbBanzukeQuery(basho = "2017.01")
+sumodbBanzukeQuery <- function(basho) {
+	df <- tryCatch(
+		readHTMLTable(
+			# skip left panel with its own tables
+			doc = str_match(
+				# raw HTML
+				paste(
+					readLines(paste0("http://sumodb.sumogames.de/Banzuke.aspx?b=", gsub("\\.", "", basho), "&w=on&c=on&simple=on")),
+					collapse = ""
+				),
+				"<td class=\"layoutright\">(.+)"
+				
+			)[1, 2],
+			trim = TRUE,
+			which = 1
+		),
+		error = function(e) {},
+		warning = function(w) {}
+	)
+	
+	if(!is.null(df)) df %>%
+		setNames(tolower(names(.))) %>%
+		mutate(basho = basho) %>%
+		select(
+			basho,
+			rank,
+			rikishi,
+			`height/weight`
+		) %>%
+		mutate(
+			height = as.numeric(str_match(`height/weight`, "([0-9.]+) cm")[, 2]),
+			weight = as.numeric(str_match(`height/weight`, "([0-9.]+) kg")[, 2])
+		) %>%
+		select(-`height/weight`)
+}
+
+
 # http://stackoverflow.com/a/30947988/17216
 getSrc <- function(node, ...) {
 	ifelse(
@@ -105,34 +144,4 @@ sumodbBoutQuery <- function(
 		kimarite = str_match(kimarite, "(\\w+)$")[, 2],
 		win2 = recode(win2, "img/hoshi_kuro.gif" = 0, "img/hoshi_shiro.gif" = 1, "img/hoshi_fusenpai.gif" = 0, "img/hoshi_fusensho.gif" = 1)
 	)
-}
-
-
-# Banzuke Query wrapper, returns Makuuchi Banzuke
-# example: sumodbBanzukeQuery(basho = "2016.11")
-sumodbBanzukeQuery <- function(basho) {
-	df <- tryCatch(
-		readHTMLTable(
-			doc = paste0("http://sumodb.sumogames.de/Banzuke.aspx?b=", gsub("\\.", "", basho), "&w=on&c=on"),
-			trim = TRUE,
-			which = 6 # found by trial & error
-		),
-		error = function(e) {},
-		warning = function(w) {}
-	)
-	
-	if(!is.null(df)) df %>%
-		setNames(tolower(names(.))) %>%
-		mutate(basho = basho) %>%
-		select(
-			basho,
-			rank,
-			rikishi,
-			`height/weight`
-		) %>%
-		mutate(
-			height = as.numeric(str_match(`height/weight`, "([0-9.]+) cm")[, 2]),
-			weight = as.numeric(str_match(`height/weight`, "([0-9.]+) kg")[, 2])
-		) %>%
-		select(-`height/weight`)
 }
