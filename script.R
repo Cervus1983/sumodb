@@ -1,20 +1,23 @@
 # interface to http://sumodb.sumogames.de
 source("sumodb.R")
 
-# all tournaments
-tournament <- apply(
-	expand.grid(
-		2001:2016,
-		c("01", "03", "05", "07", "09", "11"), # six tournaments a year
-		stringsAsFactors = FALSE
-	) %>% filter(!(Var1 == 2011 & Var2 == "03")), # cancelled (https://en.wikipedia.org/wiki/2011_in_sumo#Tournaments)
-	1,
-	paste, collapse = "."
-)
+# all tournaments from 2001 through 2016
+# tournament <- apply(
+# 	expand.grid(
+# 		2001:2016,
+# 		c("01", "03", "05", "07", "09", "11"), # six tournaments a year
+# 		stringsAsFactors = FALSE
+# 	) %>% filter(!(Var1 == 2011 & Var2 == "03")), # cancelled (https://en.wikipedia.org/wiki/2011_in_sumo#Tournaments)
+# 	1,
+# 	paste, collapse = "."
+# )
+
+# current tournament
+tournament <- "2017.01"
 
 # banzuke
 sapply(
-	c(tournament, "2017.01"), # upcoming january tournament
+	c(tournament),
 	function(x) write.csv(
 		sumodbBanzukeQuery(basho = x),
 		file = paste0("CSV/", x, ".banzuke.csv"),
@@ -27,7 +30,7 @@ sapply(
 sapply(
 	tournament,
 	function(x) write.csv(
-		sumodbBoutQuery(basho = x),
+		sumodbBoutQuery(basho = x) %>% filter(complete.cases(.)),
 		file = paste0("CSV/", x, ".results.csv"),
 		quote = FALSE,
 		row.names = FALSE
