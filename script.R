@@ -1,5 +1,5 @@
 # interface to http://sumodb.sumogames.de
-source("sumodb.R")
+source("C:/Users/Spel/Desktop/GitHub/sumodb/sumodb.R")
 
 # all tournaments from 2001 through 2016
 # tournament <- apply(
@@ -20,7 +20,7 @@ sapply(
 	c(tournament),
 	function(x) write.csv(
 		sumodbBanzukeQuery(basho = x),
-		file = paste0("CSV/", x, ".banzuke.csv"),
+		file = paste0("C:/Users/Spel/Desktop/GitHub/sumodb/CSV/", x, ".banzuke.csv"),
 		quote = FALSE,
 		row.names = FALSE
 	)
@@ -31,7 +31,7 @@ sapply(
 	tournament,
 	function(x) write.csv(
 		sumodbBoutQuery(basho = x) %>% filter(complete.cases(.)),
-		file = paste0("CSV/", x, ".results.csv"),
+		file = paste0("C:/Users/Spel/Desktop/GitHub/sumodb/CSV/", x, ".results.csv"),
 		quote = FALSE,
 		row.names = FALSE
 	)
