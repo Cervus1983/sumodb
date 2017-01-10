@@ -1,339 +1,507 @@
 basho,day,rank1,shikona1,result1,win1,kimarite,win2,rank2,shikona2,result2
 2017.01,1,Jk18e,Shimakaze,0-1,0,oshidashi,1,Jk22w,Fukunofuji,1-0
-2017.01,1,Jk17e,Narutaki,1-0,1,oshidashi,0,Jk21w,Hikarifuji,0-1
-2017.01,1,Jk14e,Tsunekawa,1-0,1,hatakikomi,0,Jk20w,Sakurafuji,0-1
-2017.01,1,Jk19e,Ichifuji,0-1,0,oshidashi,1,Jk12w,Tokio,1-0
-2017.01,1,Jk10w,Maeta,1-0,1,oshidashi,0,Jk9w,Shironofuji,0-1
-2017.01,1,Jk8e,Azumayama,1-0,1,shitatenage,0,Jk7w,Miura,0-1
-2017.01,1,Jk6e,Itakozakura,1-0,1,yorikiri,0,Jk5w,Yanagawa,0-1
-2017.01,1,Jk4e,Oatari,1-0,1,yorikiri,0,Jk3w,Kyonosato,0-1
-2017.01,1,Jk2e,Dewanosora,1-0,1,oshidashi,0,Jk1w,Daishiryu,0-1
+2017.01,1,Jk17e,Narutaki,1-0,1,oshidashi,0,Jk21w,Hikarifuji,0-1 (1-1)
+2017.01,1,Jk14e,Tsunekawa,1-0 (1-1),1,hatakikomi,0,Jk20w,Sakurafuji,0-1
+2017.01,1,Jk19e,Ichifuji,0-1,0,oshidashi,1,Jk12w,Tokio,1-0 (1-1)
+2017.01,1,Jk10w,Maeta,1-0,1,oshidashi,0,Jk9w,Shironofuji,0-1 (0-2)
+2017.01,1,Jk8e,Azumayama,1-0 (1-1),1,shitatenage,0,Jk7w,Miura,0-1
+2017.01,1,Jk6e,Itakozakura,1-0,1,yorikiri,0,Jk5w,Yanagawa,0-1 (0-2)
+2017.01,1,Jk4e,Oatari,1-0,1,yorikiri,0,Jk3w,Kyonosato,0-1 (1-1)
+2017.01,1,Jk2e,Dewanosora,1-0,1,oshidashi,0,Jk1w,Daishiryu,0-1 (1-1)
 2017.01,1,Jd96e,Moriurara,1-0,1,yorikiri,0,Jd96w,Fubu,0-1
-2017.01,1,Jd94e,Hakuyo,0-1,0,yorikiri,1,Jd94w,Bushi,1-0
-2017.01,1,Jd92e,Ayaminato,1-0,1,okuridashi,0,Jd92w,Asahinishiki,0-1
-2017.01,1,Jd90e,Imai,1-0,1,kotenage,0,Jd90w,Kadokura,0-1
-2017.01,1,Jd88e,Hokuyozakura,0-1,0,tsukidashi,1,Jd88w,Byakkomaru,1-0
-2017.01,1,Jd86e,Yamashita,0-1,0,okuridashi,1,Jd86w,Kinjo,1-0
+2017.01,1,Jd94e,Hakuyo,0-1 (0-2),0,yorikiri,1,Jd94w,Bushi,1-0
+2017.01,1,Jd92e,Ayaminato,1-0 (2-0),1,okuridashi,0,Jd92w,Asahinishiki,0-1
+2017.01,1,Jd90e,Imai,1-0 (2-0),1,kotenage,0,Jd90w,Kadokura,0-1
+2017.01,1,Jd88e,Hokuyozakura,0-1 (0-2),0,tsukidashi,1,Jd88w,Byakkomaru,1-0
+2017.01,1,Jd86e,Yamashita,0-1 (0-2),0,okuridashi,1,Jd86w,Kinjo,1-0
 2017.01,1,Jd84e,Asashiomoto,0-1,0,yorikiri,1,Jd84w,Hokutosato,1-0
-2017.01,1,Jd82e,Hamaazuma,1-0,1,yorikiri,0,Jd81w,Daigonishiki,0-1
-2017.01,1,Jd80e,Goketsuyama,0-1,0,yoritaoshi,1,Jd79w,Daishohama,1-0
-2017.01,1,Jd78e,Kototaiko,1-0,1,tsuridashi,0,Jd77w,Ezuka,0-1
-2017.01,1,Jd76e,Sorakaze,1-0,1,hatakikomi,0,Jd75w,Ichinoryu,0-1
-2017.01,1,Jd74e,Furanshisu,0-1,0,yoritaoshi,1,Jd73w,Yamana,1-0
-2017.01,1,Jd72e,Kakutaiki,0-1,0,yorikiri,1,Jd71w,Higonoryu,1-0
-2017.01,1,Jd70e,Kainowaka,0-1,0,hikiotoshi,1,Jd69w,Fujinotani,1-0
+2017.01,1,Jd82e,Hamaazuma,1-0,1,yorikiri,0,Jd81w,Daigonishiki,0-1 (1-1)
+2017.01,1,Jd80e,Goketsuyama,0-1,0,yoritaoshi,1,Jd79w,Daishohama,1-0 (2-0)
+2017.01,1,Jd78e,Kototaiko,1-0,1,tsuridashi,0,Jd77w,Ezuka,0-1 (1-1)
+2017.01,1,Jd76e,Sorakaze,1-0 (2-0),1,hatakikomi,0,Jd75w,Ichinoryu,0-1
+2017.01,1,Jd74e,Furanshisu,0-1,0,yoritaoshi,1,Jd73w,Yamana,1-0 (1-1)
+2017.01,1,Jd72e,Kakutaiki,0-1,0,yorikiri,1,Jd71w,Higonoryu,1-0 (1-1)
+2017.01,1,Jd70e,Kainowaka,0-1,0,hikiotoshi,1,Jd69w,Fujinotani,1-0 (2-0)
 2017.01,1,Jd68e,Yamanaka,0-1,0,hikiotoshi,1,Jd67w,Mihamaumi,1-0
-2017.01,1,Jd66e,Fukuda,1-0,1,oshidashi,0,Jd65w,Chida,0-1
-2017.01,1,Jd64e,Miyazakiyama,0-1,0,shitatenage,1,Jd62w,Tochiimari,1-0
-2017.01,1,Jd61e,Sekizuka,0-1,0,oshidashi,1,Jd60w,Gagyusan,1-0
+2017.01,1,Jd66e,Fukuda,1-0 (2-0),1,oshidashi,0,Jd65w,Chida,0-1 (1-1)
+2017.01,1,Jd64e,Miyazakiyama,0-1,0,shitatenage,1,Jd62w,Tochiimari,1-0 (1-1)
+2017.01,1,Jd61e,Sekizuka,0-1,0,oshidashi,1,Jd60w,Gagyusan,1-0 (2-0)
 2017.01,1,Jd59e,Yoshimura,1-0,1,fusen,0,Jd58w,Jingu,0-1
-2017.01,1,Jd57e,Hokutoryu,0-1,0,yorikiri,1,Jd56w,Motokiyama,1-0
-2017.01,1,Jd55e,Kameoka,1-0,1,fusen,0,Jd54w,Kotokobayashi,0-1
-2017.01,1,Jd52e,Masutenryu,0-1,0,oshidashi,1,Jd52w,Tatsunoumi,1-0
-2017.01,1,Jd49e,Daisho,0-1,0,oshidashi,1,Jd50w,Asanoshima,1-0
-2017.01,1,Jd48e,Kotonoshima,1-0,1,yorikiri,0,Jd47w,Asahimaru,0-1
-2017.01,1,Jd46e,Kotootomo,0-1,0,yorikiri,1,Jd45w,Daiseiryu,1-0
-2017.01,1,Jd44e,Tsubakifuji,1-0,1,oshidashi,0,Jd43w,Takakurayama,0-1
+2017.01,1,Jd57e,Hokutoryu,0-1 (0-2),0,yorikiri,1,Jd56w,Motokiyama,1-0
+2017.01,1,Jd55e,Kameoka,1-0,1,fusen,0,Jd54w,Kotokobayashi,0-1 (0-2)
+2017.01,1,Jd52e,Masutenryu,0-1 (1-1),0,oshidashi,1,Jd52w,Tatsunoumi,1-0
+2017.01,1,Jd49e,Daisho,0-1 (0-2),0,oshidashi,1,Jd50w,Asanoshima,1-0
+2017.01,1,Jd48e,Kotonoshima,1-0,1,yorikiri,0,Jd47w,Asahimaru,0-1 (0-2)
+2017.01,1,Jd46e,Kotootomo,0-1 (0-2),0,yorikiri,1,Jd45w,Daiseiryu,1-0
+2017.01,1,Jd44e,Tsubakifuji,1-0 (1-1),1,oshidashi,0,Jd43w,Takakurayama,0-1
 2017.01,1,Jd42e,Ryubu,1-0,1,fusen,0,Jd41w,Burinosato,0-1
-2017.01,1,Jd40e,Nakai,1-0,1,yoritaoshi,0,Jd38w,Fudano,0-1
-2017.01,1,Jd37e,Kenyu,1-0,1,oshidashi,0,Jd36w,Haguroho,0-1
-2017.01,1,Jd35e,Hisatsukasa,0-1,0,oshidashi,1,Jd34w,Kotoseigo,1-0
-2017.01,1,Jd33e,Kotoomura,0-1,0,yoritaoshi,1,Jd32w,Tochimitsuru,1-0
-2017.01,1,Jd31e,Kotoyamato,1-0,1,oshidashi,0,Jd30w,Terunosato,0-1
-2017.01,1,Jd29e,Zendaisho,0-1,0,oshidashi,1,Jd28w,Tokiryu,1-0
-2017.01,1,Jd27e,Akitoba,0-1,0,oshidashi,1,Jd26w,Hamamiryu,1-0
-2017.01,1,Jd25e,Inabajo,1-0,1,yorikiri,0,Jd24w,Yamazaki,0-1
-2017.01,1,Jd23e,Hokutosho,0-1,0,yorikiri,1,Jd22w,Chiyooume,1-0
-2017.01,1,Jd20e,Yamamoto,1-0,1,tsukidashi,0,Jd20w,Amamidake,0-1
-2017.01,1,Jd18e,Sakaguchi,1-0,1,yorikiri,0,Jd18w,Satoyama,0-1
-2017.01,1,Jd16w,Toseima,0-1,0,yorikiri,1,Jd15w,Tochisato,1-0
-2017.01,1,Jd14e,Sadanogo,0-1,0,uwatenage,1,Jd13w,Hao,1-0
-2017.01,1,Jd12e,Tatsukaze,1-0,1,oshidashi,0,Jd11w,Fujiarashi,0-1
-2017.01,1,Jd10e,Nishikifuji,1-0,1,yorikiri,0,Jd9w,Kotomiyakura,0-1
-2017.01,1,Jd8e,Hamadayama,0-1,0,okuritaoshi,1,Jd7w,Takashinryu,1-0
-2017.01,1,Jd4e,Kotohayashi,1-0,1,oshidashi,0,Jd3w,Tosahikari,0-1
-2017.01,1,Jd1e,Wakakoki,0-1,0,oshidashi,1,Jd2e,Kototora,1-0
+2017.01,1,Jd40e,Nakai,1-0 (2-0),1,yoritaoshi,0,Jd38w,Fudano,0-1
+2017.01,1,Jd37e,Kenyu,1-0 (1-1),1,oshidashi,0,Jd36w,Haguroho,0-1
+2017.01,1,Jd35e,Hisatsukasa,0-1 (1-1),0,oshidashi,1,Jd34w,Kotoseigo,1-0
+2017.01,1,Jd33e,Kotoomura,0-1 (0-2),0,yoritaoshi,1,Jd32w,Tochimitsuru,1-0 (2-0)
+2017.01,1,Jd31e,Kotoyamato,1-0 (1-1),1,oshidashi,0,Jd30w,Terunosato,0-1
+2017.01,1,Jd29e,Zendaisho,0-1,0,oshidashi,1,Jd28w,Tokiryu,1-0 (2-0)
+2017.01,1,Jd27e,Akitoba,0-1,0,oshidashi,1,Jd26w,Hamamiryu,1-0 (1-1)
+2017.01,1,Jd25e,Inabajo,1-0 (2-0),1,yorikiri,0,Jd24w,Yamazaki,0-1
+2017.01,1,Jd23e,Hokutosho,0-1,0,yorikiri,1,Jd22w,Chiyooume,1-0 (1-1)
+2017.01,1,Jd20e,Yamamoto,1-0 (2-0),1,tsukidashi,0,Jd20w,Amamidake,0-1
+2017.01,1,Jd18e,Sakaguchi,1-0 (2-0),1,yorikiri,0,Jd18w,Satoyama,0-1
+2017.01,1,Jd16w,Toseima,0-1,0,yorikiri,1,Jd15w,Tochisato,1-0 (1-1)
+2017.01,1,Jd14e,Sadanogo,0-1,0,uwatenage,1,Jd13w,Hao,1-0 (1-1)
+2017.01,1,Jd12e,Tatsukaze,1-0 (1-1),1,oshidashi,0,Jd11w,Fujiarashi,0-1 (0-2)
+2017.01,1,Jd10e,Nishikifuji,1-0 (2-0),1,yorikiri,0,Jd9w,Kotomiyakura,0-1
+2017.01,1,Jd8e,Hamadayama,0-1,0,okuritaoshi,1,Jd7w,Takashinryu,1-0 (2-0)
+2017.01,1,Jd4e,Kotohayashi,1-0 (2-0),1,oshidashi,0,Jd3w,Tosahikari,0-1
+2017.01,1,Jd1e,Wakakoki,0-1 (1-1),0,oshidashi,1,Jd2e,Kototora,1-0 (1-1)
 2017.01,1,Sd99e,Matsuyama,0-1,0,yorikiri,1,Sd99w,Hatachijo,1-0
-2017.01,1,Sd97e,Tagonofuji,1-0,1,yorikiri,0,Sd97w,Tochitensho,0-1
-2017.01,1,Sd95e,Iida,0-1,0,yorikiri,1,Sd94w,Miyauchi,1-0
-2017.01,1,Sd93w,Kitadaichi,1-0,1,uwatedashinage,0,Sd92w,Hokutonami,0-1
-2017.01,1,Sd91e,Hidano,1-0,1,kimetaoshi,0,Sd90w,Yasui,0-1
-2017.01,1,Sd89e,Ginseizan,1-0,1,oshidashi,0,Sd88w,Kotomanabe,0-1
-2017.01,1,Sd87w,Kotokensei,0-1,0,hikiotoshi,1,Sd86w,Haruhikari,1-0
-2017.01,1,Sd85e,Kasugaryu,1-0,1,oshidashi,0,Sd84w,Chikarayama,0-1
-2017.01,1,Sd83e,Isenohana,0-1,0,yorikiri,1,Sd82w,Tochigidake,1-0
-2017.01,1,Sd80e,Yuma,1-0,1,yoritaoshi,0,Sd81e,Obara,0-1
+2017.01,1,Sd97e,Tagonofuji,1-0 (1-1),1,yorikiri,0,Sd97w,Tochitensho,0-1
+2017.01,1,Sd95e,Iida,0-1,0,yorikiri,1,Sd94w,Miyauchi,1-0 (2-0)
+2017.01,1,Sd93w,Kitadaichi,1-0 (1-1),1,uwatedashinage,0,Sd92w,Hokutonami,0-1 (0-2)
+2017.01,1,Sd91e,Hidano,1-0,1,kimetaoshi,0,Sd90w,Yasui,0-1 (1-1)
+2017.01,1,Sd89e,Ginseizan,1-0 (1-1),1,oshidashi,0,Sd88w,Kotomanabe,0-1 (0-2)
+2017.01,1,Sd87w,Kotokensei,0-1,0,hikiotoshi,1,Sd86w,Haruhikari,1-0 (2-0)
+2017.01,1,Sd85e,Kasugaryu,1-0 (2-0),1,oshidashi,0,Sd84w,Chikarayama,0-1
+2017.01,1,Sd83e,Isenohana,0-1,0,yorikiri,1,Sd82w,Tochigidake,1-0 (1-1)
+2017.01,1,Sd80e,Yuma,1-0,1,yoritaoshi,0,Sd81e,Obara,0-1 (0-2)
 2017.01,1,Sd79e,Miyazaki,0-1,0,oshidashi,1,Sd78w,Kyokuhozan,1-0
-2017.01,1,Sd77e,Oisato,1-0,1,yoritaoshi,0,Sd76w,Minatosho,0-1
-2017.01,1,Sd75w,Takei,0-1,0,yorikiri,1,Sd74w,Sadanosato,1-0
-2017.01,1,Sd72e,Sakaefuji,1-0,1,oshidashi,0,Sd73e,Takunoumi,0-1
-2017.01,1,Sd70e,Tokushuzan,1-0,1,oshidashi,0,Sd70w,Asatenmai,0-1
-2017.01,1,Sd68e,Saidaiji,0-1,0,yorikiri,1,Sd68w,Toho,1-0
-2017.01,1,Sd66e,Sadanohana,1-0,1,oshidashi,0,Sd66w,Dewaizumi,0-1
-2017.01,1,Sd64w,Daitenpaku,0-1,0,oshidashi,1,Sd63w,Kotozensho,1-0
-2017.01,1,Sd62e,Kiriarashi,1-0,1,oshidashi,0,Sd61w,Fujitaisei,0-1
-2017.01,1,Sd60e,Tochikasuga,1-0,1,hatakikomi,0,Sd59w,Sadahikari,0-1
-2017.01,1,Sd56e,Minatoryu,1-0,1,yorikiri,0,Sd55w,Takamiryu,0-1
-2017.01,1,Sd54e,Kototsubasa,1-0,1,yorikiri,0,Sd53w,Hokutotsuru,0-1
-2017.01,1,Sd52e,Kasugakuni,0-1,0,yorikiri,1,Sd51w,Fujinohana,1-0
-2017.01,1,Sd49e,Kisenowaka,1-0,1,oshidashi,0,Sd49w,Tochinoshima,0-1
-2017.01,1,Sd47e,Mitozakura,1-0,1,oshitaoshi,0,Sd47w,Tochiminato,0-1
-2017.01,1,Sd45e,Teraoumi,0-1,0,yorikiri,1,Sd45w,Hikarugenji,1-0
-2017.01,1,Sd43e,Hamaminato,1-0,1,hikiotoshi,0,Sd43w,Daishozen,0-1
-2017.01,1,Sd41e,Shobushi,0-1,0,oshidashi,1,Sd41w,Shuji,1-0
-2017.01,1,Sd39e,Akatsuki,1-0,1,yorikiri,0,Sd39w,Inoue,0-1
-2017.01,1,Sd37e,Fujinowaka,0-1,0,oshidashi,1,Sd37w,Ryuseio,1-0
-2017.01,1,Sd35e,Suekawa,1-0,1,tsukidashi,0,Sd35w,Shunba,0-1
-2017.01,1,Sd33w,Ebisumaru,1-0,1,yorikiri,0,Sd32w,Asanojo,0-1
-2017.01,1,Sd31e,Shingaku,0-1,0,oshidashi,1,Sd31w,Kirinoryu,1-0
-2017.01,1,Sd29e,Yoshifuji,1-0,1,tsukiotoshi,0,Sd29w,Itadaki,0-1
-2017.01,1,Sd27e,Kitanomine,1-0,1,tsukidashi,0,Sd27w,Shohoryu,0-1
-2017.01,1,Sd25e,Baraki,0-1,0,sukuinage,1,Sd25w,Daijo,1-0
-2017.01,1,Sd23e,Okinohama,0-1,0,yoritaoshi,1,Sd23w,Sakae,1-0
-2017.01,1,Sd21e,Ikegawa,1-0,1,oshidashi,0,Sd21w,Hisanotora,0-1
-2017.01,1,Sd19e,Chiyoraizan,1-0,1,shitatenage,0,Sd19w,Wakaryusei,0-1
-2017.01,1,Sd17e,Sumanoumi,1-0,1,yorikiri,0,Sd17w,Kotokino,0-1
-2017.01,1,Sd15e,Dewanojo,1-0,1,yorikiri,0,Sd16e,Tamakongo,0-1
-2017.01,1,Sd13e,Nakazono,0-1,0,sotogake,1,Sd13w,Hirotsukasa,1-0
-2017.01,1,Sd11e,Kotootori,0-1,0,oshidashi,1,Sd11w,Hamayutaka,1-0
-2017.01,1,Sd9e,Hokutoo,1-0,1,yorikiri,0,Sd9w,Kosei,0-1
-2017.01,1,Sd7e,Chiyonoumi,1-0,1,yorikiri,0,Sd7w,Yamatoarashi,0-1
-2017.01,1,Sd5e,Kotodairyu,1-0,1,oshidashi,0,Sd5w,Masakaze,0-1
-2017.01,1,Sd3e,Honda,1-0,1,yorikiri,0,Sd3w,Onojo,0-1
-2017.01,1,Sd1e,Tomisakae,0-1,0,hatakikomi,1,Sd1w,Kainoryu,1-0
-2017.01,1,Ms59e,Kirinofuji,1-0,1,utchari,0,Ms59w,Musashikuni,0-1
-2017.01,1,Ms57e,Chiyonokatsu,0-1,0,hatakikomi,1,Ms57w,Aoi,1-0
-2017.01,1,Ms55e,Hokutokawa,1-0,1,oshidashi,0,Ms56e,Kaorufuji,0-1
-2017.01,1,Ms53e,Okoryu,1-0,1,sukuinage,0,Ms53w,Ozora,0-1
-2017.01,1,Ms51e,Asahiryu,1-0,1,yorikiri,0,Ms51w,Koshinoryu,0-1
-2017.01,1,Ms49w,Fukugoriki,0-1,0,hatakikomi,1,Ms48w,Shonannoumi,1-0
-2017.01,1,Ms47e,Sagatsukasa,1-0,1,oshidashi,0,Ms47w,Yoshiazuma,0-1
-2017.01,1,Ms45e,Kotomisen,1-0,1,oshidashi,0,Ms45w,Masutoo,0-1
-2017.01,1,Ms43e,Rao,1-0,1,uwatenage,0,Ms43w,Oazuma,0-1
-2017.01,1,Ms39e,Katsunofuji,0-1,0,oshidashi,1,Ms39w,Takaryu,1-0
+2017.01,1,Sd77e,Oisato,1-0 (2-0),1,yoritaoshi,0,Sd76w,Minatosho,0-1 (1-1)
+2017.01,1,Sd75w,Takei,0-1,0,yorikiri,1,Sd74w,Sadanosato,1-0 (1-1)
+2017.01,1,Sd72e,Sakaefuji,1-0 (1-1),1,oshidashi,0,Sd73e,Takunoumi,0-1
+2017.01,1,Sd70e,Tokushuzan,1-0 (2-0),1,oshidashi,0,Sd70w,Asatenmai,0-1
+2017.01,1,Sd68e,Saidaiji,0-1,0,yorikiri,1,Sd68w,Toho,1-0 (2-0)
+2017.01,1,Sd66e,Sadanohana,1-0 (2-0),1,oshidashi,0,Sd66w,Dewaizumi,0-1 (1-1)
+2017.01,1,Sd64w,Daitenpaku,0-1,0,oshidashi,1,Sd63w,Kotozensho,1-0 (2-0)
+2017.01,1,Sd62e,Kiriarashi,1-0 (1-1),1,oshidashi,0,Sd61w,Fujitaisei,0-1
+2017.01,1,Sd60e,Tochikasuga,1-0 (1-1),1,hatakikomi,0,Sd59w,Sadahikari,0-1
+2017.01,1,Sd56e,Minatoryu,1-0 (1-1),1,yorikiri,0,Sd55w,Takamiryu,0-1
+2017.01,1,Sd54e,Kototsubasa,1-0 (2-0),1,yorikiri,0,Sd53w,Hokutotsuru,0-1
+2017.01,1,Sd52e,Kasugakuni,0-1,0,yorikiri,1,Sd51w,Fujinohana,1-0 (2-0)
+2017.01,1,Sd49e,Kisenowaka,1-0 (2-0),1,oshidashi,0,Sd49w,Tochinoshima,0-1
+2017.01,1,Sd47e,Mitozakura,1-0 (2-0),1,oshitaoshi,0,Sd47w,Tochiminato,0-1
+2017.01,1,Sd45e,Teraoumi,0-1,0,yorikiri,1,Sd45w,Hikarugenji,1-0 (2-0)
+2017.01,1,Sd43e,Hamaminato,1-0 (1-1),1,hikiotoshi,0,Sd43w,Daishozen,0-1
+2017.01,1,Sd41e,Shobushi,0-1,0,oshidashi,1,Sd41w,Shuji,1-0 (2-0)
+2017.01,1,Sd39e,Akatsuki,1-0 (1-1),1,yorikiri,0,Sd39w,Inoue,0-1
+2017.01,1,Sd37e,Fujinowaka,0-1,0,oshidashi,1,Sd37w,Ryuseio,1-0 (2-0)
+2017.01,1,Sd35e,Suekawa,1-0 (2-0),1,tsukidashi,0,Sd35w,Shunba,0-1 (1-1)
+2017.01,1,Sd33w,Ebisumaru,1-0,1,yorikiri,0,Sd32w,Asanojo,0-1 (0-2)
+2017.01,1,Sd31e,Shingaku,0-1,0,oshidashi,1,Sd31w,Kirinoryu,1-0 (1-1)
+2017.01,1,Sd29e,Yoshifuji,1-0 (1-1),1,tsukiotoshi,0,Sd29w,Itadaki,0-1
+2017.01,1,Sd27e,Kitanomine,1-0 (2-0),1,tsukidashi,0,Sd27w,Shohoryu,0-1
+2017.01,1,Sd25e,Baraki,0-1 (1-1),0,sukuinage,1,Sd25w,Daijo,1-0
+2017.01,1,Sd23e,Okinohama,0-1 (1-1),0,yoritaoshi,1,Sd23w,Sakae,1-0
+2017.01,1,Sd21e,Ikegawa,1-0 (2-0),1,oshidashi,0,Sd21w,Hisanotora,0-1
+2017.01,1,Sd19e,Chiyoraizan,1-0 (1-1),1,shitatenage,0,Sd19w,Wakaryusei,0-1
+2017.01,1,Sd17e,Sumanoumi,1-0 (1-1),1,yorikiri,0,Sd17w,Kotokino,0-1
+2017.01,1,Sd15e,Dewanojo,1-0 (1-1),1,yorikiri,0,Sd16e,Tamakongo,0-1
+2017.01,1,Sd13e,Nakazono,0-1 (1-1),0,sotogake,1,Sd13w,Hirotsukasa,1-0
+2017.01,1,Sd11e,Kotootori,0-1 (0-2),0,oshidashi,1,Sd11w,Hamayutaka,1-0
+2017.01,1,Sd9e,Hokutoo,1-0,1,yorikiri,0,Sd9w,Kosei,0-1 (1-1)
+2017.01,1,Sd7e,Chiyonoumi,1-0,1,yorikiri,0,Sd7w,Yamatoarashi,0-1 (1-1)
+2017.01,1,Sd5e,Kotodairyu,1-0 (1-1),1,oshidashi,0,Sd5w,Masakaze,0-1 (0-2)
+2017.01,1,Sd3e,Honda,1-0 (2-0),1,yorikiri,0,Sd3w,Onojo,0-1 (0-2)
+2017.01,1,Sd1e,Tomisakae,0-1 (1-1),0,hatakikomi,1,Sd1w,Kainoryu,1-0
+2017.01,1,Ms59e,Kirinofuji,1-0,1,utchari,0,Ms59w,Musashikuni,0-1 (1-1)
+2017.01,1,Ms57e,Chiyonokatsu,0-1 (0-2),0,hatakikomi,1,Ms57w,Aoi,1-0
+2017.01,1,Ms55e,Hokutokawa,1-0,1,oshidashi,0,Ms56e,Kaorufuji,0-1 (1-1)
+2017.01,1,Ms53e,Okoryu,1-0,1,sukuinage,0,Ms53w,Ozora,0-1 (0-2)
+2017.01,1,Ms51e,Asahiryu,1-0,1,yorikiri,0,Ms51w,Koshinoryu,0-1 (0-2)
+2017.01,1,Ms49w,Fukugoriki,0-1,0,hatakikomi,1,Ms48w,Shonannoumi,1-0 (2-0)
+2017.01,1,Ms47e,Sagatsukasa,1-0,1,oshidashi,0,Ms47w,Yoshiazuma,0-1 (0-2)
+2017.01,1,Ms45e,Kotomisen,1-0,1,oshidashi,0,Ms45w,Masutoo,0-1 (1-1)
+2017.01,1,Ms43e,Rao,1-0,1,uwatenage,0,Ms43w,Oazuma,0-1 (0-2)
+2017.01,1,Ms39e,Katsunofuji,0-1 (0-2),0,oshidashi,1,Ms39w,Takaryu,1-0
 2017.01,1,Ms37e,Ayanoumi,1-0,1,sukuinage,0,Ms37w,Daishoryu,0-1
-2017.01,1,Ms35e,Higoarashi,0-1,0,yorikiri,1,Ms35w,Nogami,1-0
+2017.01,1,Ms35e,Higoarashi,0-1,0,yorikiri,1,Ms35w,Nogami,1-0 (2-0)
 2017.01,1,Ms33e,Hishofuji,0-1,0,yorikiri,1,Ms33w,Dewaotori,1-0
-2017.01,1,Ms31e,Higonojo,0-1,0,tokkurinage,1,Ms31w,Akinokawa,1-0
-2017.01,1,Ms29e,Kotaro,1-0,1,oshidashi,0,Ms29w,Horyuyama,0-1
-2017.01,1,Ms27e,Sotairyu,0-1,0,sukuinage,1,Ms27w,Nankairiki,1-0
-2017.01,1,Ms25e,Terao,1-0,1,uwatenage,0,Ms25w,Ryusei,0-1
-2017.01,1,Ms23e,Oiwato,0-1,0,oshidashi,1,Ms23w,Tokushinho,1-0
-2017.01,1,Ms21e,Kizaki,1-0,1,oshidashi,0,Ms21w,Ryuonami,0-1
-2017.01,1,Ms19e,Asakoki,0-1,0,hatakikomi,1,Ms19w,Goryu,1-0
-2017.01,1,Ms17e,Dewahayate,1-0,1,yorikiri,0,Ms17w,Kagamio,0-1
-2017.01,1,Ms15e,Masunosho,1-0,1,oshidashi,0,Ms15w,Jokoryu,0-1
-2017.01,1,Ms13e,Shimanoumi,0-1,0,hatakikomi,1,Ms13w,Tochihiryu,1-0
+2017.01,1,Ms31e,Higonojo,0-1,0,tokkurinage,1,Ms31w,Akinokawa,1-0 (1-1)
+2017.01,1,Ms29e,Kotaro,1-0,1,oshidashi,0,Ms29w,Horyuyama,0-1 (0-2)
+2017.01,1,Ms27e,Sotairyu,0-1,0,sukuinage,1,Ms27w,Nankairiki,1-0 (2-0)
+2017.01,1,Ms25e,Terao,1-0,1,uwatenage,0,Ms25w,Ryusei,0-1 (1-1)
+2017.01,1,Ms23e,Oiwato,0-1,0,oshidashi,1,Ms23w,Tokushinho,1-0 (2-0)
+2017.01,1,Ms21e,Kizaki,1-0,1,oshidashi,0,Ms21w,Ryuonami,0-1 (0-2)
+2017.01,1,Ms19e,Asakoki,0-1,0,hatakikomi,1,Ms19w,Goryu,1-0 (1-1)
+2017.01,1,Ms17e,Dewahayate,1-0,1,yorikiri,0,Ms17w,Kagamio,0-1 (1-1)
+2017.01,1,Ms15e,Masunosho,1-0,1,oshidashi,0,Ms15w,Jokoryu,0-1 (1-1)
+2017.01,1,Ms13e,Shimanoumi,0-1,0,hatakikomi,1,Ms13w,Tochihiryu,1-0 (1-1)
 2017.01,1,Ms11e,Daiseiho,0-1,0,oshidashi,1,Ms11w,Daiseido,1-0
-2017.01,1,Ms9e,Sadanofuji,0-1,0,yorikiri,1,Ms9w,Akiseyama,1-0
+2017.01,1,Ms9e,Sadanofuji,0-1,0,yorikiri,1,Ms9w,Akiseyama,1-0 (2-0)
 2017.01,1,Ms7e,Shotenro,0-1,0,yorikiri,1,Ms7w,Ishibashi,1-0
 2017.01,1,Ms5e,Shiba,1-0,1,yorikiri,0,Ms5w,Mugendai,0-1
-2017.01,1,Ms3e,Fujiazuma,0-1,0,tsukidashi,1,Ms3w,Tochimaru,1-0
-2017.01,1,Ms1e,Kitaharima,1-0,1,oshidashi,0,Ms1w,Asasekiryu,0-1
-2017.01,1,J14e,Wakanoshima,1-0 (2-0),1,yorikiri,0,J14w,Kizenryu,0-1 (0-2)
-2017.01,1,J13e,Terutsuyoshi,0-1 (0-2),0,sukuinage,1,J13w,Daiamami,1-0 (2-0)
-2017.01,1,J12e,Asahisho,0-1 (0-2),0,yorikiri,1,J12w,Rikishin,1-0 (1-1)
-2017.01,1,J11e,Homarefuji,1-0 (2-0),1,yorikiri,0,J11w,Satoyama,0-1 (1-1)
-2017.01,1,J10e,Amuru,1-0 (2-0),1,hatakikomi,0,J10w,Ryuden,0-1 (1-1)
-2017.01,1,J9e,Yamaguchi,0-1 (0-2),0,yorikiri,1,J9w,Amakaze,1-0 (1-1)
-2017.01,1,J8e,Tokushoryu,1-0 (1-1),1,hatakikomi,0,J8w,Tsurugisho,0-1 (0-2)
-2017.01,1,J7e,Kyokutaisei,1-0 (2-0),1,tsukiotoshi,0,J7w,Aminishiki,0-1 (1-1)
-2017.01,1,J6e,Oyanagi,0-1 (1-1),0,amiuchi,1,J6w,Kotoeko,1-0 (2-0)
-2017.01,1,J5e,Kitataiki,0-1 (0-2),0,oshidashi,1,J5w,Onosho,1-0 (1-1)
-2017.01,1,J4e,Seiro,0-1 (0-2),0,yorikiri,1,J4w,Azumaryu,1-0 (2-0)
-2017.01,1,J3e,Ura,1-0 (2-0),1,oshidashi,0,J3w,Chiyomaru,0-1 (0-2)
-2017.01,1,J2e,Kyokushuho,1-0 (2-0),1,hatakikomi,0,J2w,Daieisho,0-1 (0-2)
-2017.01,1,J1e,Toyohibiki,1-0 (1-1),1,yorikiri,0,J1w,Hidenoumi,0-1 (1-1)
-2017.01,1,M15e,Chiyoo,0-1 (0-2),0,utchari,1,M16e,Osunaarashi,1-0 (2-0)
-2017.01,1,M15w,Sadanoumi,1-0 (2-0),1,oshidashi,0,M14w,Chiyotairyu,0-1 (1-1)
-2017.01,1,M14e,Chiyootori,0-1 (0-2),0,oshidashi,1,M13w,Ichinojo,1-0 (1-1)
-2017.01,1,M13e,Gagamaru,0-1 (1-1),0,hatakikomi,1,M12w,Daishomaru,1-0 (1-1)
-2017.01,1,M12e,Takakeisho,0-1 (0-2),0,oshidashi,1,M11w,Nishikigi,1-0 (2-0)
-2017.01,1,M11e,Kagayaki,0-1 (0-2),0,tsukiotoshi,1,M10w,Sokokurai,1-0 (2-0)
-2017.01,1,M10e,Takanoiwa,1-0 (2-0),1,abisetaoshi,0,M9w,Ishiura,0-1 (0-2)
-2017.01,1,M9e,Kaisei,1-0 (2-0),1,oshitaoshi,0,M8w,Chiyonokuni,0-1 (1-1)
-2017.01,1,M8e,Hokutofuji,1-0 (1-1),1,tsukiotoshi,0,M7w,Aoiyama,0-1 (0-2)
-2017.01,1,M7e,Myogiryu,0-1 (0-2),0,hatakikomi,1,M6w,Kotoyuki,1-0 (2-0)
-2017.01,1,M6e,Chiyoshoma,0-1 (1-1),0,tsuriotoshi,1,M5w,Yoshikaze,1-0 (1-1)
-2017.01,1,M5e,Takekaze,1-0 (2-0),1,tsukiotoshi,0,M4w,Endo,0-1 (1-1)
-2017.01,1,M4e,Tochiozan,0-1 (0-2),0,oshidashi,1,M3w,Ikioi,1-0 (1-1)
-2017.01,1,S1e,Tamawashi,1-0 (1-1),1,oshidashi,0,M3e,Okinoumi,0-1 (1-1)
-2017.01,1,M2w,Arawashi,0-1 (0-2),0,yorikiri,1,O2w,Kotoshogiku,1-0 (1-1)
-2017.01,1,O2e,Terunofuji,0-1 (0-2),0,yorikiri,1,M2e,Shohozan,1-0 (1-1)
-2017.01,1,M1w,Mitakeumi,1-0 (2-0),1,yorikiri,0,O1w,Goeido,0-1 (1-1)
-2017.01,1,O1e,Kisenosato,1-0 (2-0),1,yorikiri,0,M1e,Takarafuji,0-1 (0-2)
-2017.01,1,Y2e,Hakuho,1-0 (2-0),1,hikiotoshi,0,S1w,Shodai,0-1 (1-1)
-2017.01,1,K1e,Takayasu,0-1 (1-1),0,yorikiri,1,Y1w,Harumafuji,1-0 (1-1)
-2017.01,1,Y1e,Kakuryu,1-0 (2-0),1,uwatedashinage,0,K1w,Tochinoshin,0-1 (0-2)
+2017.01,1,Ms3e,Fujiazuma,0-1 (1-1),0,tsukidashi,1,Ms3w,Tochimaru,1-0 (2-0)
+2017.01,1,Ms1e,Kitaharima,1-0 (2-0),1,oshidashi,0,Ms1w,Asasekiryu,0-1 (0-2)
+2017.01,1,J14e,Wakanoshima,1-0 (3-0),1,yorikiri,0,J14w,Kizenryu,0-1 (0-3)
+2017.01,1,J13e,Terutsuyoshi,0-1 (1-2),0,sukuinage,1,J13w,Daiamami,1-0 (2-1)
+2017.01,1,J12e,Asahisho,0-1 (0-3),0,yorikiri,1,J12w,Rikishin,1-0 (1-2)
+2017.01,1,J11e,Homarefuji,1-0 (3-0),1,yorikiri,0,J11w,Satoyama,0-1 (2-1)
+2017.01,1,J10e,Amuru,1-0 (2-1),1,hatakikomi,0,J10w,Ryuden,0-1 (1-2)
+2017.01,1,J9e,Yamaguchi,0-1 (1-2),0,yorikiri,1,J9w,Amakaze,1-0 (2-1)
+2017.01,1,J8e,Tokushoryu,1-0 (1-2),1,hatakikomi,0,J8w,Tsurugisho,0-1 (1-2)
+2017.01,1,J7e,Kyokutaisei,1-0 (2-1),1,tsukiotoshi,0,J7w,Aminishiki,0-1 (2-1)
+2017.01,1,J6e,Oyanagi,0-1 (2-1),0,amiuchi,1,J6w,Kotoeko,1-0 (3-0)
+2017.01,1,J5e,Kitataiki,0-1 (0-3),0,oshidashi,1,J5w,Onosho,1-0 (1-2)
+2017.01,1,J4e,Seiro,0-1 (0-3),0,yorikiri,1,J4w,Azumaryu,1-0 (2-1)
+2017.01,1,J3e,Ura,1-0 (3-0),1,oshidashi,0,J3w,Chiyomaru,0-1 (1-2)
+2017.01,1,J2e,Kyokushuho,1-0 (2-1),1,hatakikomi,0,J2w,Daieisho,0-1 (1-2)
+2017.01,1,J1e,Toyohibiki,1-0 (1-2),1,yorikiri,0,J1w,Hidenoumi,0-1 (2-1)
+2017.01,1,M15e,Chiyoo,0-1 (1-2),0,utchari,1,M16e,Osunaarashi,1-0 (3-0)
+2017.01,1,M15w,Sadanoumi,1-0 (3-0),1,oshidashi,0,M14w,Chiyotairyu,0-1 (1-2)
+2017.01,1,M14e,Chiyootori,0-1 (0-3),0,oshidashi,1,M13w,Ichinojo,1-0 (2-1)
+2017.01,1,M13e,Gagamaru,0-1 (1-2),0,hatakikomi,1,M12w,Daishomaru,1-0 (1-2)
+2017.01,1,M12e,Takakeisho,0-1 (0-3),0,oshidashi,1,M11w,Nishikigi,1-0 (2-1)
+2017.01,1,M11e,Kagayaki,0-1 (1-2),0,tsukiotoshi,1,M10w,Sokokurai,1-0 (3-0)
+2017.01,1,M10e,Takanoiwa,1-0 (3-0),1,abisetaoshi,0,M9w,Ishiura,0-1 (0-3)
+2017.01,1,M9e,Kaisei,1-0 (2-1),1,oshitaoshi,0,M8w,Chiyonokuni,0-1 (2-1)
+2017.01,1,M8e,Hokutofuji,1-0 (2-1),1,tsukiotoshi,0,M7w,Aoiyama,0-1 (1-2)
+2017.01,1,M7e,Myogiryu,0-1 (0-3),0,hatakikomi,1,M6w,Kotoyuki,1-0 (2-1)
+2017.01,1,M6e,Chiyoshoma,0-1 (2-1),0,tsuriotoshi,1,M5w,Yoshikaze,1-0 (2-1)
+2017.01,1,M5e,Takekaze,1-0 (3-0),1,tsukiotoshi,0,M4w,Endo,0-1 (1-2)
+2017.01,1,M4e,Tochiozan,0-1 (0-3),0,oshidashi,1,M3w,Ikioi,1-0 (1-2)
+2017.01,1,S1e,Tamawashi,1-0 (2-1),1,oshidashi,0,M3e,Okinoumi,0-1 (1-2)
+2017.01,1,M2w,Arawashi,0-1 (0-3),0,yorikiri,1,O2w,Kotoshogiku,1-0 (2-1)
+2017.01,1,O2e,Terunofuji,0-1 (1-2),0,yorikiri,1,M2e,Shohozan,1-0 (2-1)
+2017.01,1,M1w,Mitakeumi,1-0 (2-1),1,yorikiri,0,O1w,Goeido,0-1 (1-2)
+2017.01,1,O1e,Kisenosato,1-0 (3-0),1,yorikiri,0,M1e,Takarafuji,0-1 (0-3)
+2017.01,1,Y2e,Hakuho,1-0 (3-0),1,hikiotoshi,0,S1w,Shodai,0-1 (1-2)
+2017.01,1,K1e,Takayasu,0-1 (2-1),0,yorikiri,1,Y1w,Harumafuji,1-0 (1-2)
+2017.01,1,Y1e,Kakuryu,1-0 (3-0),1,uwatedashinage,0,K1w,Tochinoshin,0-1 (0-3)
 2017.01,2,Jk23e,Noborifuji,1-0,1,shitatenage,0,Jk18w,Hattorizakura,0-1
 2017.01,2,Jk17w,Wakaichiro,1-0,1,oshidashi,0,Jk22e,Tatsunofuji,0-1
-2017.01,2,Jk21e,Toranofuji,0-1,0,oshidashi,1,Jk16w,Wakayama,1-0
-2017.01,2,Jk20e,Teruju,0-1,0,oshidashi,1,Jk13w,Kenshin,1-0
-2017.01,2,Jk10e,Sawanofuji,0-1,0,oshidashi,1,Jk11e,Fujihisashi,1-0
-2017.01,2,Jk9e,Wada,1-0,1,oshidashi,0,Jk8w,Kawaguchi,0-1
-2017.01,2,Jk7e,Higohikari,0-1,0,oshidashi,1,Jk6w,Daiisshin,1-0
-2017.01,2,Jk5e,Wakayamanaka,1-0,1,oshitaoshi,0,Jk4w,Momochizakura,0-1
-2017.01,2,Jk3e,Shunpo,0-1,0,oshidashi,1,Jk2w,Isamufuji,1-0
-2017.01,2,Jk1e,Akutsu,0-1,0,yorikiri,1,Jd97w,Shoryudo,1-0
-2017.01,2,Jd95e,Ozaki,0-1,0,oshidashi,1,Jd95w,Hanashi,1-0
-2017.01,2,Jd93e,Tamanoryu,1-0,1,yorikiri,0,Jd93w,Sakura,0-1
-2017.01,2,Jd91e,Fukuminato,0-1,0,yoritaoshi,1,Jd91w,Tomiyama,1-0
-2017.01,2,Jd89e,Watatani,1-0,1,oshidashi,0,Jd89w,Ito,0-1
-2017.01,2,Jd87e,Mochizuki,0-1,0,yorikiri,1,Jd87w,Nakatani,1-0
-2017.01,2,Jd85e,Fukuazuma,0-1,0,oshidashi,1,Jd85w,Kodera,1-0
-2017.01,2,Jd83e,Bandaisan,0-1,0,yorikiri,1,Jd82w,Iko,1-0
-2017.01,2,Jd81e,Mogaminishiki,1-0,1,yorikiri,0,Jd80w,Kurokage,0-1
-2017.01,2,Jd79e,Azumanami,0-1,0,okuridashi,1,Jd78w,Nakaishi,1-0
-2017.01,2,Jd77e,Wakayamana,0-1,0,oshidashi,1,Jd76w,Umiwatari,1-0
-2017.01,2,Jd75e,Takamayama,1-0,1,oshidashi,0,Jd74w,Kirimaru,0-1
-2017.01,2,Jd73e,Kozakura,0-1,0,yorikiri,1,Jd72w,Kasuganami,1-0
-2017.01,2,Jd71e,Sugano,1-0,1,yorikiri,0,Jd70w,Takanonari,0-1
+2017.01,2,Jk21e,Toranofuji,0-1 (1-1),0,oshidashi,1,Jk16w,Wakayama,1-0 (2-0)
+2017.01,2,Jk20e,Teruju,0-1 (1-1),0,oshidashi,1,Jk13w,Kenshin,1-0
+2017.01,2,Jk10e,Sawanofuji,0-1,0,oshidashi,1,Jk11e,Fujihisashi,1-0 (2-0)
+2017.01,2,Jk9e,Wada,1-0,1,oshidashi,0,Jk8w,Kawaguchi,0-1 (0-2)
+2017.01,2,Jk7e,Higohikari,0-1 (0-2),0,oshidashi,1,Jk6w,Daiisshin,1-0 (2-0)
+2017.01,2,Jk5e,Wakayamanaka,1-0,1,oshitaoshi,0,Jk4w,Momochizakura,0-1 (0-2)
+2017.01,2,Jk3e,Shunpo,0-1 (0-2),0,oshidashi,1,Jk2w,Isamufuji,1-0
+2017.01,2,Jk1e,Akutsu,0-1,0,yorikiri,1,Jd97w,Shoryudo,1-0 (1-1)
+2017.01,2,Jd95e,Ozaki,0-1 (1-1),0,oshidashi,1,Jd95w,Hanashi,1-0 (2-0)
+2017.01,2,Jd93e,Tamanoryu,1-0 (1-1),1,yorikiri,0,Jd93w,Sakura,0-1
+2017.01,2,Jd91e,Fukuminato,0-1,0,yoritaoshi,1,Jd91w,Tomiyama,1-0 (1-1)
+2017.01,2,Jd89e,Watatani,1-0,1,oshidashi,0,Jd89w,Ito,0-1 (1-1)
+2017.01,2,Jd87e,Mochizuki,0-1 (1-1),0,yorikiri,1,Jd87w,Nakatani,1-0
+2017.01,2,Jd85e,Fukuazuma,0-1,0,oshidashi,1,Jd85w,Kodera,1-0 (2-0)
+2017.01,2,Jd83e,Bandaisan,0-1 (0-2),0,yorikiri,1,Jd82w,Iko,1-0 (1-1)
+2017.01,2,Jd81e,Mogaminishiki,1-0 (1-1),1,yorikiri,0,Jd80w,Kurokage,0-1
+2017.01,2,Jd79e,Azumanami,0-1 (0-2),0,okuridashi,1,Jd78w,Nakaishi,1-0
+2017.01,2,Jd77e,Wakayamana,0-1,0,oshidashi,1,Jd76w,Umiwatari,1-0 (2-0)
+2017.01,2,Jd75e,Takamayama,1-0 (1-1),1,oshidashi,0,Jd74w,Kirimaru,0-1
+2017.01,2,Jd73e,Kozakura,0-1,0,yorikiri,1,Jd72w,Kasuganami,1-0 (2-0)
+2017.01,2,Jd71e,Sugano,1-0 (1-1),1,yorikiri,0,Jd70w,Takanonari,0-1
 2017.01,2,Jd69e,Hakkairyu,0-1,0,oshidashi,1,Jd68w,Izumigawa,1-0
-2017.01,2,Jd67e,Teraowaka,1-0,1,oshidashi,0,Jd66w,Kitasatsuma,0-1
-2017.01,2,Jd65e,Hokutohomare,1-0,1,oshidashi,0,Jd64w,Tsuyukusa,0-1
-2017.01,2,Jd62e,Hitomi,0-1,0,yorikiri,1,Jd61w,Azumahikari,1-0
-2017.01,2,Jd60e,Terumichi,1-0,1,yoritaoshi,0,Jd59w,Miyakojima,0-1
-2017.01,2,Jd58e,Shiraseyama,0-1,0,shitatenage,1,Jd57w,Tamashinriki,1-0
-2017.01,2,Jd56e,Adachi,1-0,1,yorikiri,0,Jd55w,Shinzan,0-1
-2017.01,2,Jd53e,Asatatsuke,0-1,0,yoritaoshi,1,Jd54e,Ota,1-0
-2017.01,2,Jd51e,Buken,0-1,0,oshidashi,1,Jd51w,Takada,1-0
-2017.01,2,Jd49w,Mimurodake,0-1,0,yoritaoshi,1,Jd48w,Okuniasahi,1-0
-2017.01,2,Jd47e,Asamorimoto,1-0,1,uwatenage,0,Jd46w,Kokuryunami,0-1
-2017.01,2,Jd45e,Tokkoriki,0-1,0,kotenage,1,Jd44w,Ishihara,1-0
+2017.01,2,Jd67e,Teraowaka,1-0 (1-1),1,oshidashi,0,Jd66w,Kitasatsuma,0-1 (0-2)
+2017.01,2,Jd65e,Hokutohomare,1-0 (2-0),1,oshidashi,0,Jd64w,Tsuyukusa,0-1
+2017.01,2,Jd62e,Hitomi,0-1,0,yorikiri,1,Jd61w,Azumahikari,1-0 (1-1)
+2017.01,2,Jd60e,Terumichi,1-0,1,yoritaoshi,0,Jd59w,Miyakojima,0-1 (1-1)
+2017.01,2,Jd58e,Shiraseyama,0-1 (0-2),0,shitatenage,1,Jd57w,Tamashinriki,1-0
+2017.01,2,Jd56e,Adachi,1-0,1,yorikiri,0,Jd55w,Shinzan,0-1 (1-1)
+2017.01,2,Jd53e,Asatatsuke,0-1 (1-1),0,yoritaoshi,1,Jd54e,Ota,1-0
+2017.01,2,Jd51e,Buken,0-1 (0-2),0,oshidashi,1,Jd51w,Takada,1-0
+2017.01,2,Jd49w,Mimurodake,0-1 (1-1),0,yoritaoshi,1,Jd48w,Okuniasahi,1-0
+2017.01,2,Jd47e,Asamorimoto,1-0,1,uwatenage,0,Jd46w,Kokuryunami,0-1 (1-1)
+2017.01,2,Jd45e,Tokkoriki,0-1 (1-1),0,kotenage,1,Jd44w,Ishihara,1-0 (2-0)
 2017.01,2,Jd43e,Kyokuhikari,1-0,1,kimedashi,0,Jd42w,Daishojo,0-1
-2017.01,2,Jd41e,Takataisho,0-1,0,katasukashi,1,Jd40w,Yoshizaki,1-0
-2017.01,2,Jd38e,Kobayashi,1-0,1,uwatedashinage,0,Jd37w,Asayokomichi,0-1
-2017.01,2,Jd36e,Takiguchi,1-0,1,oshidashi,0,Jd35w,Hokutoyu,0-1
-2017.01,2,Jd34e,Imafuku,0-1,0,shitatenage,1,Jd33w,Hibikiryu,1-0
+2017.01,2,Jd41e,Takataisho,0-1,0,katasukashi,1,Jd40w,Yoshizaki,1-0 (1-1)
+2017.01,2,Jd38e,Kobayashi,1-0 (2-0),1,uwatedashinage,0,Jd37w,Asayokomichi,0-1
+2017.01,2,Jd36e,Takiguchi,1-0,1,oshidashi,0,Jd35w,Hokutoyu,0-1 (0-2)
+2017.01,2,Jd34e,Imafuku,0-1 (1-1),0,shitatenage,1,Jd33w,Hibikiryu,1-0
 2017.01,2,Jd32e,Kotouruga,1-0,1,yoritaoshi,0,Jd31w,Shinyashiki,0-1
-2017.01,2,Jd30e,Hanakaze,0-1,0,oshidashi,1,Jd29w,Hokutogo,1-0
-2017.01,2,Jd28e,Hokutoiwami,1-0,1,yorikiri,0,Jd27w,Saito,0-1
-2017.01,2,Jd26e,Satonofuji,1-0,1,tsukiotoshi,0,Jd25w,Hokuseikai,0-1
-2017.01,2,Jd24e,Asaokado,0-1,0,yorikiri,1,Jd23w,Terunohana,1-0
-2017.01,2,Jd21e,Miyanofuji,0-1,0,tsukiotoshi,1,Jd22e,Oyamatoumi,1-0
-2017.01,2,Jd19e,Takakiho,0-1,0,oshidashi,1,Jd19w,Kaishinmaru,1-0
-2017.01,2,Jd17e,Kanryu,0-1,0,oshidashi,1,Jd17w,Masuminoru,1-0
-2017.01,2,Jd15e,Rikiyushi,0-1,0,hatakikomi,1,Jd14w,Isshinryu,1-0
+2017.01,2,Jd30e,Hanakaze,0-1,0,oshidashi,1,Jd29w,Hokutogo,1-0 (1-1)
+2017.01,2,Jd28e,Hokutoiwami,1-0 (2-0),1,yorikiri,0,Jd27w,Saito,0-1
+2017.01,2,Jd26e,Satonofuji,1-0 (1-1),1,tsukiotoshi,0,Jd25w,Hokuseikai,0-1
+2017.01,2,Jd24e,Asaokado,0-1,0,yorikiri,1,Jd23w,Terunohana,1-0 (2-0)
+2017.01,2,Jd21e,Miyanofuji,0-1,0,tsukiotoshi,1,Jd22e,Oyamatoumi,1-0 (1-1)
+2017.01,2,Jd19e,Takakiho,0-1,0,oshidashi,1,Jd19w,Kaishinmaru,1-0 (1-1)
+2017.01,2,Jd17e,Kanryu,0-1,0,oshidashi,1,Jd17w,Masuminoru,1-0 (2-0)
+2017.01,2,Jd15e,Rikiyushi,0-1,0,hatakikomi,1,Jd14w,Isshinryu,1-0 (2-0)
 2017.01,2,Jd13e,Daishoki,1-0,1,yorikiri,0,Jd12w,Hirose,0-1
-2017.01,2,Jd11e,Mibu,0-1,0,uwatedashinage,1,Jd10w,Midorifuji,1-0
-2017.01,2,Jd9e,Omote,1-0,1,oshidashi,0,Jd8w,Tsurugikaze,0-1
-2017.01,2,Jd7e,Kenho,1-0,1,oshidashi,0,Jd6w,Yamatonami,0-1
-2017.01,2,Jd6e,Ryutsukasa,0-1,0,tsukiotoshi,1,Jd5w,Kotomyozan,1-0
-2017.01,2,Jd5e,Takaseiryu,0-1,0,oshidashi,1,Jd4w,Surugafuji,1-0
-2017.01,2,Jd3e,Daishowaka,1-0,1,yorikiri,0,Jd2w,Kotorikuzan,0-1
-2017.01,2,Sd100e,Tsugaruumi,1-0,1,shitatedashinage,0,Sd100w,Daishoko,0-1
-2017.01,2,Sd98e,Okunisato,0-1,0,yorikiri,1,Sd98w,Mutsukaze,1-0
-2017.01,2,Sd96e,Toryu,0-1,0,tsukiotoshi,1,Sd96w,Nakao,1-0
-2017.01,2,Sd93e,Amanishiki,1-0,1,hatakikomi,0,Sd94e,Onokura,0-1
+2017.01,2,Jd11e,Mibu,0-1 (1-1),0,uwatedashinage,1,Jd10w,Midorifuji,1-0
+2017.01,2,Jd9e,Omote,1-0 (1-1),1,oshidashi,0,Jd8w,Tsurugikaze,0-1
+2017.01,2,Jd7e,Kenho,1-0 (2-0),1,oshidashi,0,Jd6w,Yamatonami,0-1
+2017.01,2,Jd6e,Ryutsukasa,0-1,0,tsukiotoshi,1,Jd5w,Kotomyozan,1-0 (1-1)
+2017.01,2,Jd5e,Takaseiryu,0-1,0,oshidashi,1,Jd4w,Surugafuji,1-0 (1-1)
+2017.01,2,Jd3e,Daishowaka,1-0 (2-0),1,yorikiri,0,Jd2w,Kotorikuzan,0-1
+2017.01,2,Sd100e,Tsugaruumi,1-0,1,shitatedashinage,0,Sd100w,Daishoko,0-1 (0-2)
+2017.01,2,Sd98e,Okunisato,0-1,0,yorikiri,1,Sd98w,Mutsukaze,1-0 (1-1)
+2017.01,2,Sd96e,Toryu,0-1,0,tsukiotoshi,1,Sd96w,Nakao,1-0 (2-0)
+2017.01,2,Sd93e,Amanishiki,1-0 (2-0),1,hatakikomi,0,Sd94e,Onokura,0-1
 2017.01,2,Sd92e,Nakashima,0-1,0,yorikiri,1,Sd91w,Azumasho,1-0
 2017.01,2,Sd90e,Kirizakura,0-1,0,tsukidashi,1,Sd89w,Kiryu,1-0
-2017.01,2,Sd87e,Kasugamine,1-0,1,oshidashi,0,Sd88e,Fujisato,0-1
-2017.01,2,Sd86e,Teraosho,1-0,1,yoritaoshi,0,Sd85w,Kamiyutaka,0-1
-2017.01,2,Sd84e,Daishomune,0-1,0,yoritaoshi,1,Sd83w,Sazanami,1-0
+2017.01,2,Sd87e,Kasugamine,1-0,1,oshidashi,0,Sd88e,Fujisato,0-1 (1-1)
+2017.01,2,Sd86e,Teraosho,1-0 (1-1),1,yoritaoshi,0,Sd85w,Kamiyutaka,0-1
+2017.01,2,Sd84e,Daishomune,0-1,0,yoritaoshi,1,Sd83w,Sazanami,1-0 (2-0)
 2017.01,2,Sd82e,Wakasenryu,1-0,1,hikiotoshi,0,Sd81w,Hayate,0-1
-2017.01,2,Sd80w,Okinoiwa,0-1,0,zubuneri,1,Sd79w,Ikeru,1-0
-2017.01,2,Sd78e,Umeno,1-0,1,yoritaoshi,0,Sd77w,Matsuda,0-1
-2017.01,2,Sd75e,Yoshinokuni,1-0,1,katasukashi,0,Sd76e,Arikawa,0-1
-2017.01,2,Sd74e,Yutsukasa,1-0,1,yoritaoshi,0,Sd73w,Hokutoshin,0-1
-2017.01,2,Sd71e,Wayama,1-0,1,hatakikomi,0,Sd71w,Kotokojima,0-1
-2017.01,2,Sd69e,Fujinokaze,1-0,1,yorikiri,0,Sd69w,Mienosato,0-1
+2017.01,2,Sd80w,Okinoiwa,0-1 (1-1),0,zubuneri,1,Sd79w,Ikeru,1-0 (1-1)
+2017.01,2,Sd78e,Umeno,1-0 (2-0),1,yoritaoshi,0,Sd77w,Matsuda,0-1
+2017.01,2,Sd75e,Yoshinokuni,1-0,1,katasukashi,0,Sd76e,Arikawa,0-1 (0-2)
+2017.01,2,Sd74e,Yutsukasa,1-0 (2-0),1,yoritaoshi,0,Sd73w,Hokutoshin,0-1
+2017.01,2,Sd71e,Wayama,1-0 (1-1),1,hatakikomi,0,Sd71w,Kotokojima,0-1
+2017.01,2,Sd69e,Fujinokaze,1-0 (1-1),1,yorikiri,0,Sd69w,Mienosato,0-1
 2017.01,2,Sd67e,Haruminato,1-0,1,watashikomi,0,Sd67w,Koshinishiki,0-1
-2017.01,2,Sd65e,Dairaido,1-0,1,hatakikomi,0,Sd65w,Wakahizen,0-1
-2017.01,2,Sd63e,Kototaiki,0-1,0,yorikiri,1,Sd64e,Okuma,1-0
-2017.01,2,Sd61e,Aomihama,1-0,1,oshidashi,0,Sd60w,Awajiumi,0-1
-2017.01,2,Sd59e,Ariake,1-0,1,shitatenage,0,Sd58w,Tokinowaka,0-1
-2017.01,2,Sd58e,Sakaekaze,0-1,0,tsukiotoshi,1,Sd57w,Uchida,1-0
-2017.01,2,Sd57e,Kurahashi,1-0,1,tsukiotoshi,0,Sd56w,Hokuyozan,0-1
-2017.01,2,Sd55e,Hienriki,1-0,1,katasukashi,0,Sd54w,Kotoinagaki,0-1
-2017.01,2,Sd53e,Kotorikisen,1-0,1,okuridashi,0,Sd52w,Takatenshu,0-1
-2017.01,2,Sd51e,Amanoshima,1-0,1,yorikiri,0,Sd50w,Saio,0-1
-2017.01,2,Sd48e,Ohata,1-0,1,yorikiri,0,Sd48w,Munakata,0-1
-2017.01,2,Sd46e,Fujinoumi,0-1,0,yorikiri,1,Sd46w,Narumi,1-0
-2017.01,2,Sd44e,Ako,0-1,0,shitatenage,1,Sd44w,Yokuyusei,1-0
-2017.01,2,Sd42e,Tenichi,1-0,1,oshitaoshi,0,Sd42w,Asayamabana,0-1
-2017.01,2,Sd40e,Saionji,0-1,0,oshitaoshi,1,Sd40w,Maenofuji,1-0
-2017.01,2,Sd38e,Wakanofuji,1-0,1,yorikiri,0,Sd38w,Orora,0-1
-2017.01,2,Sd36e,Hokutohana,0-1,0,hatakikomi,1,Sd36w,Hagane,1-0
+2017.01,2,Sd65e,Dairaido,1-0,1,hatakikomi,0,Sd65w,Wakahizen,0-1 (0-2)
+2017.01,2,Sd63e,Kototaiki,0-1,0,yorikiri,1,Sd64e,Okuma,1-0 (1-1)
+2017.01,2,Sd61e,Aomihama,1-0 (2-0),1,oshidashi,0,Sd60w,Awajiumi,0-1
+2017.01,2,Sd59e,Ariake,1-0 (1-1),1,shitatenage,0,Sd58w,Tokinowaka,0-1
+2017.01,2,Sd58e,Sakaekaze,0-1,0,tsukiotoshi,1,Sd57w,Uchida,1-0 (2-0)
+2017.01,2,Sd57e,Kurahashi,1-0 (2-0),1,tsukiotoshi,0,Sd56w,Hokuyozan,0-1
+2017.01,2,Sd55e,Hienriki,1-0 (1-1),1,katasukashi,0,Sd54w,Kotoinagaki,0-1
+2017.01,2,Sd53e,Kotorikisen,1-0 (1-1),1,okuridashi,0,Sd52w,Takatenshu,0-1
+2017.01,2,Sd51e,Amanoshima,1-0 (1-1),1,yorikiri,0,Sd50w,Saio,0-1
+2017.01,2,Sd48e,Ohata,1-0 (1-1),1,yorikiri,0,Sd48w,Munakata,0-1
+2017.01,2,Sd46e,Fujinoumi,0-1,0,yorikiri,1,Sd46w,Narumi,1-0 (1-1)
+2017.01,2,Sd44e,Ako,0-1,0,shitatenage,1,Sd44w,Yokuyusei,1-0 (2-0)
+2017.01,2,Sd42e,Tenichi,1-0 (2-0),1,oshitaoshi,0,Sd42w,Asayamabana,0-1
+2017.01,2,Sd40e,Saionji,0-1,0,oshitaoshi,1,Sd40w,Maenofuji,1-0 (1-1)
+2017.01,2,Sd38e,Wakanofuji,1-0 (1-1),1,yorikiri,0,Sd38w,Orora,0-1
+2017.01,2,Sd36e,Hokutohana,0-1,0,hatakikomi,1,Sd36w,Hagane,1-0 (1-1)
 2017.01,2,Sd34e,Daishokaku,1-0,1,yorikiri,0,Sd34w,Hasugeyama,0-1
-2017.01,2,Sd32e,Asanotosa,0-1,0,yorikiri,1,Sd33e,Sasayama,1-0
-2017.01,2,Sd30e,Shinohara,1-0,1,uwatedashinage,0,Sd30w,Mitotsukasa,0-1
-2017.01,2,Sd28e,Hitachigo,1-0,1,fusen,0,Sd28w,Notoazuma,0-1
-2017.01,2,Sd26e,Omoto,1-0,1,kakenage,0,Sd26w,Aratora,0-1
-2017.01,2,Sd24e,Hamaeiko,1-0,1,yorikiri,0,Sd24w,Sadanokuni,0-1
-2017.01,2,Sd22e,Karatsuumi,0-1,0,yorikiri,1,Sd22w,Yoshikasuga,1-0
-2017.01,2,Sd20e,Obamaumi,0-1,0,yorikiri,1,Sd20w,Kisenoyama,1-0
-2017.01,2,Sd18e,Tetsuyuzan,1-0,1,okuridashi,0,Sd18w,Gorikiyama,0-1
-2017.01,2,Sd16w,Takemasa,1-0,1,oshidashi,0,Sd15w,Kihonoumi,0-1
-2017.01,2,Sd14e,Kawaraumi,1-0,1,oshidashi,0,Sd14w,Kotonoshu,0-1
-2017.01,2,Sd12e,Kainishiki,1-0,1,oshidashi,0,Sd12w,Kotohayato,0-1
+2017.01,2,Sd32e,Asanotosa,0-1,0,yorikiri,1,Sd33e,Sasayama,1-0 (2-0)
+2017.01,2,Sd30e,Shinohara,1-0 (2-0),1,uwatedashinage,0,Sd30w,Mitotsukasa,0-1
+2017.01,2,Sd28e,Hitachigo,1-0 (1-1),1,fusen,0,Sd28w,Notoazuma,0-1
+2017.01,2,Sd26e,Omoto,1-0,1,kakenage,0,Sd26w,Aratora,0-1 (0-2)
+2017.01,2,Sd24e,Hamaeiko,1-0,1,yorikiri,0,Sd24w,Sadanokuni,0-1 (0-2)
+2017.01,2,Sd22e,Karatsuumi,0-1,0,yorikiri,1,Sd22w,Yoshikasuga,1-0 (1-1)
+2017.01,2,Sd20e,Obamaumi,0-1,0,yorikiri,1,Sd20w,Kisenoyama,1-0 (2-0)
+2017.01,2,Sd18e,Tetsuyuzan,1-0 (2-0),1,okuridashi,0,Sd18w,Gorikiyama,0-1
+2017.01,2,Sd16w,Takemasa,1-0 (2-0),1,oshidashi,0,Sd15w,Kihonoumi,0-1
+2017.01,2,Sd14e,Kawaraumi,1-0,1,oshidashi,0,Sd14w,Kotonoshu,0-1 (0-2)
+2017.01,2,Sd12e,Kainishiki,1-0,1,oshidashi,0,Sd12w,Kotohayato,0-1 (0-2)
 2017.01,2,Sd10e,Denzan,0-1,0,fusen,1,Sd10w,Onami,1-0
-2017.01,2,Sd8e,Kaizen,1-0,1,okuridashi,0,Sd8w,Kaonishiki,0-1
-2017.01,2,Sd6e,Hitenryu,0-1,0,yorikiri,1,Sd6w,Kaiseio,1-0
-2017.01,2,Sd4e,Kotofukujuno,0-1,0,oshidashi,1,Sd4w,Tochiseiryu,1-0
-2017.01,2,Sd2e,Nishiyama,0-1,0,oshidashi,1,Sd2w,Daishoiwa,1-0
-2017.01,2,Ms60e,Genkaiho,0-1,0,yorikiri,1,Ms60w,Hokaho,1-0
-2017.01,2,Ms58e,Komakiryu,0-1,0,uwatenage,1,Ms58w,Gokushindo,1-0
-2017.01,2,Ms56w,Fukamiyama,1-0,1,tsukidashi,0,Ms55w,Hokutoshu,0-1
-2017.01,2,Ms54e,Aozora,1-0,1,hatakikomi,0,Ms54w,Shoketsu,0-1
-2017.01,2,Ms52e,Takakento,0-1,0,oshidashi,1,Ms52w,Aonosho,1-0
-2017.01,2,Ms50e,Kotokamatani,1-0,1,yorikiri,0,Ms50w,Hatooka,0-1
+2017.01,2,Sd8e,Kaizen,1-0,1,okuridashi,0,Sd8w,Kaonishiki,0-1 (1-1)
+2017.01,2,Sd6e,Hitenryu,0-1 (0-2),0,yorikiri,1,Sd6w,Kaiseio,1-0 (2-0)
+2017.01,2,Sd4e,Kotofukujuno,0-1 (1-1),0,oshidashi,1,Sd4w,Tochiseiryu,1-0 (1-1)
+2017.01,2,Sd2e,Nishiyama,0-1 (1-1),0,oshidashi,1,Sd2w,Daishoiwa,1-0
+2017.01,2,Ms60e,Genkaiho,0-1 (0-2),0,yorikiri,1,Ms60w,Hokaho,1-0
+2017.01,2,Ms58e,Komakiryu,0-1 (0-2),0,uwatenage,1,Ms58w,Gokushindo,1-0
+2017.01,2,Ms56w,Fukamiyama,1-0,1,tsukidashi,0,Ms55w,Hokutoshu,0-1 (0-2)
+2017.01,2,Ms54e,Aozora,1-0,1,hatakikomi,0,Ms54w,Shoketsu,0-1 (1-1)
+2017.01,2,Ms52e,Takakento,0-1 (1-1),0,oshidashi,1,Ms52w,Aonosho,1-0
+2017.01,2,Ms50e,Kotokamatani,1-0 (1-1),1,yorikiri,0,Ms50w,Hatooka,0-1 (1-1)
 2017.01,2,Ms48e,Akinoyama,1-0,1,hatakikomi,0,Ms49e,Oki,0-1
-2017.01,2,Ms46e,Keitenkai,0-1,0,uwatenage,1,Ms46w,Takakasuga,1-0
-2017.01,2,Ms44e,Suzaku,1-0,1,hikkake,0,Ms44w,Musashiumi,0-1
-2017.01,2,Ms42e,Komanokuni,1-0,1,yorikiri,0,Ms42w,Takamisato,0-1
-2017.01,2,Ms41e,Okinofuji,0-1,0,oshitaoshi,1,Ms41w,Koba,1-0
-2017.01,2,Ms40e,Byakko,1-0,1,yorikiri,0,Ms40w,Yuki,0-1
-2017.01,2,Ms38e,Azumasato,1-0,1,oshidashi,0,Ms38w,Rikito,0-1
-2017.01,2,Ms36e,Sasakiyama,1-0,1,yorikiri,0,Ms36w,Chiyosakae,0-1
-2017.01,2,Ms34e,Kotodaigo,1-0,1,yorikiri,0,Ms34w,Rendaiyama,0-1
-2017.01,2,Ms32e,Chiyoarashi,0-1,0,yorikiri,1,Ms32w,Yamatofuji,1-0
-2017.01,2,Ms30e,Aokishin,0-1,0,yorikiri,1,Ms30w,Takayoshitoshi,1-0
-2017.01,2,Ms28e,Kansei,1-0,1,hatakikomi,0,Ms28w,Kotokuzan,0-1
-2017.01,2,Ms26e,Tochinobori,1-0,1,kotenage,0,Ms26w,Kotokobai,0-1
-2017.01,2,Ms24e,Abi,1-0,1,tsukitaoshi,0,Ms24w,Ichiki,0-1
-2017.01,2,Ms22e,Kaito,0-1,0,tsukidashi,1,Ms22w,Nionoumi,1-0
-2017.01,2,Ms20e,Kiribayama,1-0,1,oshidashi,0,Ms20w,Tochinohama,0-1
-2017.01,2,Ms18e,Tsurubayashi,0-1,0,hatakikomi,1,Ms18w,Irie,1-0
-2017.01,2,Ms16e,Sakigake,1-0,1,yorikiri,0,Ms16w,Gochozan,0-1
-2017.01,2,Ms14e,Hakuyozan,1-0,1,oshidashi,0,Ms14w,Shosei,0-1
+2017.01,2,Ms46e,Keitenkai,0-1 (1-1),0,uwatenage,1,Ms46w,Takakasuga,1-0
+2017.01,2,Ms44e,Suzaku,1-0,1,hikkake,0,Ms44w,Musashiumi,0-1 (0-2)
+2017.01,2,Ms42e,Komanokuni,1-0,1,yorikiri,0,Ms42w,Takamisato,0-1 (1-1)
+2017.01,2,Ms41e,Okinofuji,0-1 (1-1),0,oshitaoshi,1,Ms41w,Koba,1-0
+2017.01,2,Ms40e,Byakko,1-0,1,yorikiri,0,Ms40w,Yuki,0-1 (0-2)
+2017.01,2,Ms38e,Azumasato,1-0,1,oshidashi,0,Ms38w,Rikito,0-1 (1-1)
+2017.01,2,Ms36e,Sasakiyama,1-0 (1-1),1,yorikiri,0,Ms36w,Chiyosakae,0-1 (1-1)
+2017.01,2,Ms34e,Kotodaigo,1-0,1,yorikiri,0,Ms34w,Rendaiyama,0-1 (0-2)
+2017.01,2,Ms32e,Chiyoarashi,0-1,0,yorikiri,1,Ms32w,Yamatofuji,1-0 (2-0)
+2017.01,2,Ms30e,Aokishin,0-1 (1-1),0,yorikiri,1,Ms30w,Takayoshitoshi,1-0
+2017.01,2,Ms28e,Kansei,1-0 (1-1),1,hatakikomi,0,Ms28w,Kotokuzan,0-1
+2017.01,2,Ms26e,Tochinobori,1-0,1,kotenage,0,Ms26w,Kotokobai,0-1 (0-2)
+2017.01,2,Ms24e,Abi,1-0 (1-1),1,tsukitaoshi,0,Ms24w,Ichiki,0-1
+2017.01,2,Ms22e,Kaito,0-1 (1-1),0,tsukidashi,1,Ms22w,Nionoumi,1-0
+2017.01,2,Ms20e,Kiribayama,1-0 (2-0),1,oshidashi,0,Ms20w,Tochinohama,0-1
+2017.01,2,Ms18e,Tsurubayashi,0-1 (0-2),0,hatakikomi,1,Ms18w,Irie,1-0
+2017.01,2,Ms16e,Sakigake,1-0,1,yorikiri,0,Ms16w,Gochozan,0-1 (0-2)
+2017.01,2,Ms14e,Hakuyozan,1-0 (2-0),1,oshidashi,0,Ms14w,Shosei,0-1
 2017.01,2,Ms12e,Irodori,1-0,1,oshitaoshi,0,Ms12w,Tenkaiho,0-1
-2017.01,2,Ms10e,Iwasaki,1-0,1,tsukiotoshi,0,Ms10w,Tamaki,0-1
+2017.01,2,Ms10e,Iwasaki,1-0 (1-1),1,tsukiotoshi,0,Ms10w,Tamaki,0-1
 2017.01,2,Ms8e,Goshi,0-1,0,kotenage,1,Ms8w,Akua,1-0
 2017.01,2,Ms6e,Meisei,0-1,0,yorikiri,1,Ms6w,Toyonoshima,1-0
-2017.01,2,Ms4e,Daishoho,0-1,0,oshidashi,1,Ms4w,Takagenji,1-0
-2017.01,2,Ms2e,Asabenkei,0-1,0,oshidashi,1,Ms2w,Kairyu,1-0
-2017.01,2,J13e,Terutsuyoshi,0-2,0,hatakikomi,1,J14e,Wakanoshima,2-0
-2017.01,2,J14w,Kizenryu,0-2,0,yorikiri,1,J13w,Daiamami,2-0
-2017.01,2,J11e,Homarefuji,2-0,1,oshidashi,0,J12e,Asahisho,0-2
-2017.01,2,J12w,Rikishin,1-1,0,yorikiri,1,J11w,Satoyama,1-1
-2017.01,2,J9e,Yamaguchi,0-2,0,shitatenage,1,J10e,Amuru,2-0
-2017.01,2,J10w,Ryuden,1-1,1,yorikiri,0,J9w,Amakaze,1-1
-2017.01,2,J7e,Kyokutaisei,2-0,1,hikiotoshi,0,J8e,Tokushoryu,1-1
-2017.01,2,J8w,Tsurugisho,0-2,0,hatakikomi,1,J7w,Aminishiki,1-1
-2017.01,2,J5e,Kitataiki,0-2,0,yorikiri,1,J6e,Oyanagi,1-1
-2017.01,2,J6w,Kotoeko,2-0,1,tsukiotoshi,0,J5w,Onosho,1-1
-2017.01,2,J3e,Ura,2-0,1,kubihineri,0,J4e,Seiro,0-2
-2017.01,2,J4w,Azumaryu,2-0,1,yorikiri,0,J3w,Chiyomaru,0-2
-2017.01,2,J1e,Toyohibiki,1-1,0,hatakikomi,1,J2e,Kyokushuho,2-0
-2017.01,2,J2w,Daieisho,0-2,0,yorikiri,1,J1w,Hidenoumi,1-1
-2017.01,2,M15e,Chiyoo,0-2,0,yorikiri,1,M15w,Sadanoumi,2-0
-2017.01,2,M14e,Chiyootori,0-2,0,uwatedashinage,1,M16e,Osunaarashi,2-0
-2017.01,2,M14w,Chiyotairyu,1-1,1,tsukiotoshi,0,M13w,Ichinojo,1-1
-2017.01,2,M12e,Takakeisho,0-2,0,yorikiri,1,M13e,Gagamaru,1-1
-2017.01,2,M12w,Daishomaru,1-1,0,yorikiri,1,M11w,Nishikigi,2-0
-2017.01,2,M10e,Takanoiwa,2-0,1,oshidashi,0,M11e,Kagayaki,0-2
-2017.01,2,M10w,Sokokurai,2-0,1,oshidashi,0,M9w,Ishiura,0-2
-2017.01,2,M8e,Hokutofuji,1-1,0,tsukiotoshi,1,M9e,Kaisei,2-0
-2017.01,2,M8w,Chiyonokuni,1-1,1,tsukiotoshi,0,M7w,Aoiyama,0-2
-2017.01,2,M6e,Chiyoshoma,1-1,1,shitatenage,0,M7e,Myogiryu,0-2
-2017.01,2,M6w,Kotoyuki,2-0,1,tsukitaoshi,0,M5w,Yoshikaze,1-1
-2017.01,2,M4e,Tochiozan,0-2,0,hikiotoshi,1,M5e,Takekaze,2-0
-2017.01,2,M4w,Endo,1-1,1,yorikiri,0,M3w,Ikioi,1-1
-2017.01,2,M2w,Arawashi,0-2,0,yorikiri,1,S1w,Shodai,1-1
-2017.01,2,O1e,Kisenosato,2-0,1,oshidashi,0,S1e,Tamawashi,1-1
-2017.01,2,M3e,Okinoumi,1-1,1,kotenage,0,O2w,Kotoshogiku,1-1
-2017.01,2,O2e,Terunofuji,0-2,0,katasukashi,1,K1e,Takayasu,1-1
-2017.01,2,K1w,Tochinoshin,0-2,0,uwatenage,1,O1w,Goeido,1-1
-2017.01,2,Y1e,Kakuryu,2-0,1,yorikiri,0,M2e,Shohozan,1-1
-2017.01,2,Y2e,Hakuho,2-0,1,yorikiri,0,M1e,Takarafuji,0-2
-2017.01,2,M1w,Mitakeumi,2-0,1,yorikiri,0,Y1w,Harumafuji,1-1
+2017.01,2,Ms4e,Daishoho,0-1 (0-2),0,oshidashi,1,Ms4w,Takagenji,1-0 (1-1)
+2017.01,2,Ms2e,Asabenkei,0-1 (1-1),0,oshidashi,1,Ms2w,Kairyu,1-0 (1-1)
+2017.01,2,J13e,Terutsuyoshi,0-2 (1-2),0,hatakikomi,1,J14e,Wakanoshima,2-0 (3-0)
+2017.01,2,J14w,Kizenryu,0-2 (0-3),0,yorikiri,1,J13w,Daiamami,2-0 (2-1)
+2017.01,2,J11e,Homarefuji,2-0 (3-0),1,oshidashi,0,J12e,Asahisho,0-2 (0-3)
+2017.01,2,J12w,Rikishin,1-1 (1-2),0,yorikiri,1,J11w,Satoyama,1-1 (2-1)
+2017.01,2,J9e,Yamaguchi,0-2 (1-2),0,shitatenage,1,J10e,Amuru,2-0 (2-1)
+2017.01,2,J10w,Ryuden,1-1 (1-2),1,yorikiri,0,J9w,Amakaze,1-1 (2-1)
+2017.01,2,J7e,Kyokutaisei,2-0 (2-1),1,hikiotoshi,0,J8e,Tokushoryu,1-1 (1-2)
+2017.01,2,J8w,Tsurugisho,0-2 (1-2),0,hatakikomi,1,J7w,Aminishiki,1-1 (2-1)
+2017.01,2,J5e,Kitataiki,0-2 (0-3),0,yorikiri,1,J6e,Oyanagi,1-1 (2-1)
+2017.01,2,J6w,Kotoeko,2-0 (3-0),1,tsukiotoshi,0,J5w,Onosho,1-1 (1-2)
+2017.01,2,J3e,Ura,2-0 (3-0),1,kubihineri,0,J4e,Seiro,0-2 (0-3)
+2017.01,2,J4w,Azumaryu,2-0 (2-1),1,yorikiri,0,J3w,Chiyomaru,0-2 (1-2)
+2017.01,2,J1e,Toyohibiki,1-1 (1-2),0,hatakikomi,1,J2e,Kyokushuho,2-0 (2-1)
+2017.01,2,J2w,Daieisho,0-2 (1-2),0,yorikiri,1,J1w,Hidenoumi,1-1 (2-1)
+2017.01,2,M15e,Chiyoo,0-2 (1-2),0,yorikiri,1,M15w,Sadanoumi,2-0 (3-0)
+2017.01,2,M14e,Chiyootori,0-2 (0-3),0,uwatedashinage,1,M16e,Osunaarashi,2-0 (3-0)
+2017.01,2,M14w,Chiyotairyu,1-1 (1-2),1,tsukiotoshi,0,M13w,Ichinojo,1-1 (2-1)
+2017.01,2,M12e,Takakeisho,0-2 (0-3),0,yorikiri,1,M13e,Gagamaru,1-1 (1-2)
+2017.01,2,M12w,Daishomaru,1-1 (1-2),0,yorikiri,1,M11w,Nishikigi,2-0 (2-1)
+2017.01,2,M10e,Takanoiwa,2-0 (3-0),1,oshidashi,0,M11e,Kagayaki,0-2 (1-2)
+2017.01,2,M10w,Sokokurai,2-0 (3-0),1,oshidashi,0,M9w,Ishiura,0-2 (0-3)
+2017.01,2,M8e,Hokutofuji,1-1 (2-1),0,tsukiotoshi,1,M9e,Kaisei,2-0 (2-1)
+2017.01,2,M8w,Chiyonokuni,1-1 (2-1),1,tsukiotoshi,0,M7w,Aoiyama,0-2 (1-2)
+2017.01,2,M6e,Chiyoshoma,1-1 (2-1),1,shitatenage,0,M7e,Myogiryu,0-2 (0-3)
+2017.01,2,M6w,Kotoyuki,2-0 (2-1),1,tsukitaoshi,0,M5w,Yoshikaze,1-1 (2-1)
+2017.01,2,M4e,Tochiozan,0-2 (0-3),0,hikiotoshi,1,M5e,Takekaze,2-0 (3-0)
+2017.01,2,M4w,Endo,1-1 (1-2),1,yorikiri,0,M3w,Ikioi,1-1 (1-2)
+2017.01,2,M2w,Arawashi,0-2 (0-3),0,yorikiri,1,S1w,Shodai,1-1 (1-2)
+2017.01,2,O1e,Kisenosato,2-0 (3-0),1,oshidashi,0,S1e,Tamawashi,1-1 (2-1)
+2017.01,2,M3e,Okinoumi,1-1 (1-2),1,kotenage,0,O2w,Kotoshogiku,1-1 (2-1)
+2017.01,2,O2e,Terunofuji,0-2 (1-2),0,katasukashi,1,K1e,Takayasu,1-1 (2-1)
+2017.01,2,K1w,Tochinoshin,0-2 (0-3),0,uwatenage,1,O1w,Goeido,1-1 (1-2)
+2017.01,2,Y1e,Kakuryu,2-0 (3-0),1,yorikiri,0,M2e,Shohozan,1-1 (2-1)
+2017.01,2,Y2e,Hakuho,2-0 (3-0),1,yorikiri,0,M1e,Takarafuji,0-2 (0-3)
+2017.01,2,M1w,Mitakeumi,2-0 (2-1),1,yorikiri,0,Y1w,Harumafuji,1-1 (1-2)
+2017.01,3,Jk14e,Tsunekawa,1-1,0,oshidashi,1,Jk16w,Wakayama,2-0
+2017.01,3,Jk11e,Fujihisashi,2-0,1,oshidashi,0,Jk12w,Tokio,1-1
+2017.01,3,Jk15e,Ryuki,1-0-1,1,yorikiri,0,Jk9w,Shironofuji,0-2
+2017.01,3,Jk20e,Teruju,1-1,1,okuridashi,0,Jk8w,Kawaguchi,0-2
+2017.01,3,Jk7e,Higohikari,0-2,0,yorikiri,1,Jk21w,Hikarifuji,1-1
+2017.01,3,Jk8e,Azumayama,1-1,0,yorikiri,1,Jk6w,Daiisshin,2-0
+2017.01,3,Jk21e,Toranofuji,1-1,1,uwatenage,0,Jk5w,Yanagawa,0-2
+2017.01,3,Jk4w,Momochizakura,0-2,0,oshidashi,1,Jk3w,Kyonosato,1-1
+2017.01,3,Jk3e,Shunpo,0-2,0,yorikiri,1,Jk1w,Daishiryu,1-1
+2017.01,3,Jd97w,Shoryudo,1-1,0,oshidashi,1,Jd95w,Hanashi,2-0
+2017.01,3,Jd94e,Hakuyo,0-2,0,yoritaoshi,1,Jd95e,Ozaki,1-1
+2017.01,3,Jd92e,Ayaminato,2-0,1,yorikiri,0,Jd93e,Tamanoryu,1-1
+2017.01,3,Jd90e,Imai,2-0,1,yorikiri,0,Jd91w,Tomiyama,1-1
+2017.01,3,Jd88e,Hokuyozakura,0-2,0,yorikiri,1,Jd89w,Ito,1-1
+2017.01,3,Jd86e,Yamashita,0-2,0,uwatedashinage,1,Jd87e,Mochizuki,1-1
+2017.01,3,Jd85w,Kodera,2-0,1,hatakikomi,0,Jd82w,Iko,1-1
+2017.01,3,Jd83e,Bandaisan,0-2,0,kimedashi,1,Jd81w,Daigonishiki,1-1
+2017.01,3,Jd81e,Mogaminishiki,1-1,0,yorikiri,1,Jd79w,Daishohama,2-0
+2017.01,3,Jd79e,Azumanami,0-2,0,shitatenage,1,Jd77w,Ezuka,1-1
+2017.01,3,Jd75e,Takamayama,1-1,0,hatakikomi,1,Jd76w,Umiwatari,2-0
+2017.01,3,Jd76e,Sorakaze,2-0,1,okuritaoshi,0,Jd73w,Yamana,1-1
+2017.01,3,Jd72w,Kasuganami,2-0,1,yorikiri,0,Jd71w,Higonoryu,1-1
+2017.01,3,Jd71e,Sugano,1-1,0,yorikiri,1,Jd69w,Fujinotani,2-0
+2017.01,3,Jd66e,Fukuda,2-0,1,yoritaoshi,0,Jd67e,Teraowaka,1-1
+2017.01,3,Jd66w,Kitasatsuma,0-2,0,yorikiri,1,Jd65w,Chida,1-1
+2017.01,3,Jd65e,Hokutohomare,2-0,1,oshidashi,0,Jd62w,Tochiimari,1-1
+2017.01,3,Jd61w,Azumahikari,1-1,0,oshidashi,1,Jd60w,Gagyusan,2-0
+2017.01,3,Jd58e,Shiraseyama,0-2,0,uwatenage,1,Jd59w,Miyakojima,1-1
+2017.01,3,Jd57e,Hokutoryu,0-2,0,yorikiri,1,Jd55w,Shinzan,1-1
+2017.01,3,Jd53e,Asatatsuke,1-1,1,yorikiri,0,Jd54w,Kotokobayashi,0-2
+2017.01,3,Jd51e,Buken,0-2,0,sukuinage,1,Jd52e,Masutenryu,1-1
+2017.01,3,Jd49e,Daisho,0-2,0,oshidashi,1,Jd49w,Mimurodake,1-1
+2017.01,3,Jd47w,Asahimaru,0-2,0,shitatenage,1,Jd46w,Kokuryunami,1-1
+2017.01,3,Jd45e,Tokkoriki,1-1,1,hatakikomi,0,Jd46e,Kotootomo,0-2
+2017.01,3,Jd44e,Tsubakifuji,1-1,0,yorikiri,1,Jd44w,Ishihara,2-0
+2017.01,3,Jd40e,Nakai,2-0,1,yorikiri,0,Jd40w,Yoshizaki,1-1
+2017.01,3,Jd37e,Kenyu,1-1,0,hatakikomi,1,Jd38e,Kobayashi,2-0
+2017.01,3,Jd35e,Hisatsukasa,1-1,1,okuridashi,0,Jd35w,Hokutoyu,0-2
+2017.01,3,Jd33e,Kotoomura,0-2,0,uwatenage,1,Jd34e,Imafuku,1-1
+2017.01,3,Jd31e,Kotoyamato,1-1,0,oshidashi,1,Jd32w,Tochimitsuru,2-0
+2017.01,3,Jd29w,Hokutogo,1-1,0,oshidashi,1,Jd28w,Tokiryu,2-0
+2017.01,3,Jd28e,Hokutoiwami,2-0,1,kotenage,0,Jd26w,Hamamiryu,1-1
+2017.01,3,Jd25e,Inabajo,2-0,1,yorikiri,0,Jd26e,Satonofuji,1-1
+2017.01,3,Jd23w,Terunohana,2-0,1,ashitori,0,Jd22w,Chiyooume,1-1
+2017.01,3,Jd20e,Yamamoto,2-0,1,yorikiri,0,Jd22e,Oyamatoumi,1-1
+2017.01,3,Jd18e,Sakaguchi,2-0,1,okuridashi,0,Jd19w,Kaishinmaru,1-1
+2017.01,3,Jd17w,Masuminoru,2-0,1,oshidashi,0,Jd15w,Tochisato,1-1
+2017.01,3,Jd14w,Isshinryu,2-0,1,uwatenage,0,Jd13w,Hao,1-1
+2017.01,3,Jd11e,Mibu,1-1,1,oshidashi,0,Jd11w,Fujiarashi,0-2
+2017.01,3,Jd10e,Nishikifuji,2-0,1,yoritaoshi,0,Jd12e,Tatsukaze,1-1
+2017.01,3,Jd9e,Omote,1-1,0,hatakikomi,1,Jd7w,Takashinryu,2-0
+2017.01,3,Jd7e,Kenho,2-0,1,uwatedashinage,0,Jd5w,Kotomyozan,1-1
+2017.01,3,Jd4e,Kotohayashi,2-0,1,oshidashi,0,Jd4w,Surugafuji,1-1
+2017.01,3,Jd2e,Kototora,1-1,0,yorikiri,1,Jd3e,Daishowaka,2-0
+2017.01,3,Jd1e,Wakakoki,1-1,1,okuridashi,0,Sd100w,Daishoko,0-2
+2017.01,3,Sd98w,Mutsukaze,1-1,0,hikiotoshi,1,Sd96w,Nakao,2-0
+2017.01,3,Sd97e,Tagonofuji,1-1,0,yorikiri,1,Sd94w,Miyauchi,2-0
+2017.01,3,Sd93e,Amanishiki,2-0,1,ashitori,0,Sd93w,Kitadaichi,1-1
+2017.01,3,Sd92w,Hokutonami,0-2,0,shitatenage,1,Sd90w,Yasui,1-1
+2017.01,3,Sd88e,Fujisato,1-1,1,tsukiotoshi,0,Sd88w,Kotomanabe,0-2
+2017.01,3,Sd89e,Ginseizan,1-1,0,hatakikomi,1,Sd86w,Haruhikari,2-0
+2017.01,3,Sd85e,Kasugaryu,2-0,1,yorikiri,0,Sd86e,Teraosho,1-1
+2017.01,3,Sd83w,Sazanami,2-0,1,okuritaoshi,0,Sd82w,Tochigidake,1-1
+2017.01,3,Sd81e,Obara,0-2,0,yoritaoshi,1,Sd80w,Okinoiwa,1-1
+2017.01,3,Sd78e,Umeno,2-0,1,hatakikomi,0,Sd79w,Ikeru,1-1
+2017.01,3,Sd76e,Arikawa,0-2,0,oshidashi,1,Sd76w,Minatosho,1-1
+2017.01,3,Sd77e,Oisato,2-0,1,yorikiri,0,Sd74w,Sadanosato,1-1
+2017.01,3,Sd72e,Sakaefuji,1-1,0,yorikiri,1,Sd74e,Yutsukasa,2-0
+2017.01,3,Sd70e,Tokushuzan,2-0,1,oshidashi,0,Sd71e,Wayama,1-1
+2017.01,3,Sd69e,Fujinokaze,1-1,0,uwatenage,1,Sd68w,Toho,2-0
+2017.01,3,Sd66w,Dewaizumi,1-1,1,kimedashi,0,Sd65w,Wakahizen,0-2
+2017.01,3,Sd64e,Okuma,1-1,0,tsukidashi,1,Sd66e,Sadanohana,2-0
+2017.01,3,Sd62e,Kiriarashi,1-1,0,oshidashi,1,Sd63w,Kotozensho,2-0
+2017.01,3,Sd60e,Tochikasuga,1-1,0,yorikiri,1,Sd61e,Aomihama,2-0
+2017.01,3,Sd59e,Ariake,1-1,0,tsukiotoshi,1,Sd57w,Uchida,2-0
+2017.01,3,Sd56e,Minatoryu,1-1,0,oshidashi,1,Sd57e,Kurahashi,2-0
+2017.01,3,Sd54e,Kototsubasa,2-0,1,sokubiotoshi,0,Sd55e,Hienriki,1-1
+2017.01,3,Sd53e,Kotorikisen,1-1,0,yorikiri,1,Sd51w,Fujinohana,2-0
+2017.01,3,Sd49e,Kisenowaka,2-0,1,shitatedashinage,0,Sd51e,Amanoshima,1-1
+2017.01,3,Sd47e,Mitozakura,2-0,1,yoritaoshi,0,Sd48e,Ohata,1-1
+2017.01,3,Sd46w,Narumi,1-1,0,okuridashi,1,Sd45w,Hikarugenji,2-0
+2017.01,3,Sd43e,Hamaminato,1-1,0,yorikiri,1,Sd44w,Yokuyusei,2-0
+2017.01,3,Sd42e,Tenichi,2-0,1,okuritaoshi,0,Sd40w,Maenofuji,1-1
+2017.01,3,Sd39e,Akatsuki,1-1,0,yorikiri,1,Sd41w,Shuji,2-0
+2017.01,3,Sd38e,Wakanofuji,1-1,0,oshidashi,1,Sd37w,Ryuseio,2-0
+2017.01,3,Sd35e,Suekawa,2-0,1,tsukiotoshi,0,Sd36w,Hagane,1-1
+2017.01,3,Sd35w,Shunba,1-1,1,oshidashi,0,Sd32w,Asanojo,0-2
+2017.01,3,Sd33e,Sasayama,2-0,1,yorikiri,0,Sd31w,Kirinoryu,1-1
+2017.01,3,Sd29e,Yoshifuji,1-1,0,oshidashi,1,Sd30e,Shinohara,2-0
+2017.01,3,Sd27e,Kitanomine,2-0,1,hikiotoshi,0,Sd28e,Hitachigo,1-1
+2017.01,3,Sd25e,Baraki,1-1,1,yoritaoshi,0,Sd26w,Aratora,0-2
+2017.01,3,Sd23e,Okinohama,1-1,1,kimedashi,0,Sd24w,Sadanokuni,0-2
+2017.01,3,Sd21e,Ikegawa,2-0,1,kimetaoshi,0,Sd22w,Yoshikasuga,1-1
+2017.01,3,Sd19e,Chiyoraizan,1-1,0,oshidashi,1,Sd20w,Kisenoyama,2-0
+2017.01,3,Sd17e,Sumanoumi,1-1,0,okuridashi,1,Sd18e,Tetsuyuzan,2-0
+2017.01,3,Sd15e,Dewanojo,1-1,0,shitatehineri,1,Sd16w,Takemasa,2-0
+2017.01,3,Sd13e,Nakazono,1-1,1,yorikiri,0,Sd14w,Kotonoshu,0-2
+2017.01,3,Sd12w,Kotohayato,0-2,0,yorikiri,1,Sd9w,Kosei,1-1
+2017.01,3,Sd11e,Kotootori,0-2,0,oshidashi,1,Sd8w,Kaonishiki,1-1
+2017.01,3,Sd6e,Hitenryu,0-2,0,oshidashi,1,Sd7w,Yamatoarashi,1-1
+2017.01,3,Sd5e,Kotodairyu,1-1,0,yorikiri,1,Sd6w,Kaiseio,2-0
+2017.01,3,Sd4e,Kotofukujuno,1-1,1,oshidashi,0,Sd5w,Masakaze,0-2
+2017.01,3,Sd3e,Honda,2-0,1,okuridashi,0,Sd4w,Tochiseiryu,1-1
+2017.01,3,Sd2e,Nishiyama,1-1,1,isamiashi,0,Sd3w,Onojo,0-2
+2017.01,3,Ms60e,Genkaiho,0-2,0,yorikiri,1,Sd1e,Tomisakae,1-1
+2017.01,3,Ms58e,Komakiryu,0-2,0,yorikiri,1,Ms59w,Musashikuni,1-1
+2017.01,3,Ms56e,Kaorufuji,1-1,1,yorikiri,0,Ms57e,Chiyonokatsu,0-2
+2017.01,3,Ms55w,Hokutoshu,0-2,0,yorikiri,1,Ms54w,Shoketsu,1-1
+2017.01,3,Ms52e,Takakento,1-1,1,oshidashi,0,Ms53w,Ozora,0-2
+2017.01,3,Ms51w,Koshinoryu,0-2,0,oshidashi,1,Ms50w,Hatooka,1-1
+2017.01,3,Ms50e,Kotokamatani,1-1,0,yorikiri,1,Ms48w,Shonannoumi,2-0
+2017.01,3,Ms46e,Keitenkai,1-1,1,yorikiri,0,Ms47w,Yoshiazuma,0-2
+2017.01,3,Ms45w,Masutoo,1-1,1,yorikiri,0,Ms44w,Musashiumi,0-2
+2017.01,3,Ms43w,Oazuma,0-2,0,yorikiri,1,Ms42w,Takamisato,1-1
+2017.01,3,Ms41e,Okinofuji,1-1,1,yoritaoshi,0,Ms40w,Yuki,0-2
+2017.01,3,Ms39e,Katsunofuji,0-2,0,okuridashi,1,Ms38w,Rikito,1-1
+2017.01,3,Ms36e,Sasakiyama,1-1,0,yorikiri,1,Ms35w,Nogami,2-0
+2017.01,3,Ms36w,Chiyosakae,1-1,1,oshidashi,0,Ms34w,Rendaiyama,0-2
+2017.01,3,Ms32w,Yamatofuji,2-0,1,hatakikomi,0,Ms31w,Akinokawa,1-1
+2017.01,3,Ms30e,Aokishin,1-1,1,yorikiri,0,Ms29w,Horyuyama,0-2
+2017.01,3,Ms28e,Kansei,1-1,0,katasukashi,1,Ms27w,Nankairiki,2-0
+2017.01,3,Ms26w,Kotokobai,0-2,0,sukuinage,1,Ms25w,Ryusei,1-1
+2017.01,3,Ms24e,Abi,1-1,0,oshidashi,1,Ms23w,Tokushinho,2-0
+2017.01,3,Ms22e,Kaito,1-1,1,oshidashi,0,Ms21w,Ryuonami,0-2
+2017.01,3,Ms20e,Kiribayama,2-0,1,yorikiri,0,Ms19w,Goryu,1-1
+2017.01,3,Ms18e,Tsurubayashi,0-2,0,uwatenage,1,Ms17w,Kagamio,1-1
+2017.01,3,Ms16w,Gochozan,0-2,0,yorikiri,1,Ms15w,Jokoryu,1-1
+2017.01,3,Ms14e,Hakuyozan,2-0,1,oshitaoshi,0,Ms13w,Tochihiryu,1-1
+2017.01,3,Ms10e,Iwasaki,1-1,0,oshidashi,1,Ms9w,Akiseyama,2-0
+2017.01,3,Ms4w,Takagenji,1-1,0,oshidashi,1,Ms3w,Tochimaru,2-0
+2017.01,3,Ms2e,Asabenkei,1-1,1,yorikiri,0,Ms4e,Daishoho,0-2
+2017.01,3,Ms3e,Fujiazuma,1-1,1,oshidashi,0,Ms1w,Asasekiryu,0-2
+2017.01,3,Ms1e,Kitaharima,2-0,1,tsukiotoshi,0,Ms2w,Kairyu,1-1
+2017.01,3,J14e,Wakanoshima,3-0,1,yoritaoshi,0,J13w,Daiamami,2-1
+2017.01,3,J13e,Terutsuyoshi,1-2,1,shitatenage,0,J14w,Kizenryu,0-3
+2017.01,3,J12e,Asahisho,0-3,0,tottari,1,J11w,Satoyama,2-1
+2017.01,3,J11e,Homarefuji,3-0,1,oshidashi,0,J12w,Rikishin,1-2
+2017.01,3,J10e,Amuru,2-1,0,yorikiri,1,J9w,Amakaze,2-1
+2017.01,3,J9e,Yamaguchi,1-2,1,yorikiri,0,J10w,Ryuden,1-2
+2017.01,3,J8e,Tokushoryu,1-2,0,hatakikomi,1,J7w,Aminishiki,2-1
+2017.01,3,J7e,Kyokutaisei,2-1,0,hatakikomi,1,J8w,Tsurugisho,1-2
+2017.01,3,J6e,Oyanagi,2-1,1,tsukiotoshi,0,J5w,Onosho,1-2
+2017.01,3,J5e,Kitataiki,0-3,0,tsukiotoshi,1,J6w,Kotoeko,3-0
+2017.01,3,J4e,Seiro,0-3,0,tsukidashi,1,J3w,Chiyomaru,1-2
+2017.01,3,J3e,Ura,3-0,1,hikkake,0,J4w,Azumaryu,2-1
+2017.01,3,J2e,Kyokushuho,2-1,0,yorikiri,1,J1w,Hidenoumi,2-1
+2017.01,3,J1e,Toyohibiki,1-2,0,hatakikomi,1,J2w,Daieisho,1-2
+2017.01,3,M16e,Osunaarashi,3-0,1,hikiotoshi,0,M14w,Chiyotairyu,1-2
+2017.01,3,M14e,Chiyootori,0-3,0,yorikiri,1,M15w,Sadanoumi,3-0
+2017.01,3,M13e,Gagamaru,1-2,0,tsukiotoshi,1,M15e,Chiyoo,1-2
+2017.01,3,M13w,Ichinojo,2-1,1,yorikiri,0,M12w,Daishomaru,1-2
+2017.01,3,M11e,Kagayaki,1-2,1,oshidashi,0,M12e,Takakeisho,0-3
+2017.01,3,M11w,Nishikigi,2-1,0,tsuridashi,1,M10w,Sokokurai,3-0
+2017.01,3,M9e,Kaisei,2-1,0,uwatedashinage,1,M10e,Takanoiwa,3-0
+2017.01,3,M9w,Ishiura,0-3,0,tsukiotoshi,1,M8w,Chiyonokuni,2-1
+2017.01,3,M7e,Myogiryu,0-3,0,oshitaoshi,1,M8e,Hokutofuji,2-1
+2017.01,3,M7w,Aoiyama,1-2,1,yorikiri,0,M6w,Kotoyuki,2-1
+2017.01,3,M6e,Chiyoshoma,2-1,1,tsukiotoshi,0,M4w,Endo,1-2
+2017.01,3,M4e,Tochiozan,0-3,0,yorikiri,1,M5w,Yoshikaze,2-1
+2017.01,3,M5e,Takekaze,3-0,1,tsukiotoshi,0,M3w,Ikioi,1-2
+2017.01,3,S1e,Tamawashi,2-1,1,tsukidashi,0,S1w,Shodai,1-2
+2017.01,3,K1e,Takayasu,2-1,1,shitatenage,0,O1w,Goeido,1-2
+2017.01,3,O1e,Kisenosato,3-0,1,yorikiri,0,M2w,Arawashi,0-3
+2017.01,3,K1w,Tochinoshin,0-3,0,sukuinage,1,O2w,Kotoshogiku,2-1
+2017.01,3,O2e,Terunofuji,1-2,1,tsukiotoshi,0,M3e,Okinoumi,1-2
+2017.01,3,M2e,Shohozan,2-1,1,yorikiri,0,Y1w,Harumafuji,1-2
+2017.01,3,Y1e,Kakuryu,3-0,1,yorikiri,0,M1e,Takarafuji,0-3
+2017.01,3,Y2e,Hakuho,3-0,1,yorikiri,0,M1w,Mitakeumi,2-1
