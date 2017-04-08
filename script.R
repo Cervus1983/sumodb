@@ -13,7 +13,7 @@ source("sumodb.R")
 # )
 
 # current tournament
-tournament <- "2017.01"
+tournament <- "2017.03"
 
 # banzuke
 sapply(
