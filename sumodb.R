@@ -1,138 +1,164 @@
-# interface to http://sumodb.sumogames.de
+library(lubridate)
+library(rvest)
+library(tidyverse)
 
 
-library(dplyr)
-library(stringr)
-library(XML)
-
-options(stringsAsFactors = FALSE)
-
-
-# http://stackoverflow.com/a/30947988/17216
-getSrc <- function(node, ...) {
-	ifelse(
-		xmlName(node) == "td" && !is.null(node[["img"]]),
-		xmlGetAttr(node[["img"]], "src"),
-		xmlValue(node)
+# returns latest basho as yyyy.mm
+latest_basho <- function(dt = Sys.Date()) {
+	this_year <- seq(
+		dt %>% year() %>% `-`(1) %>% paste(., "11", "01", sep = "-") %>% ymd(),
+		dt %>% year() %>% paste(., "11", "30", sep = "-") %>% ymd(),
+		by = "1 day"
 	)
-}
-
-
-# one page with a query output
-sumodbPage <- function(url) {
-	tryCatch(
-		readHTMLTable(
-			doc = url,
-			elFun = getSrc,
-			skip.rows = 1,
-			trim = TRUE,
-			which = 1
-		),
-		error = function(e) {},
-		warning = function(w) {}
-	)
-}
-
-
-# entire output of a Bout Query
-sumodbBoutQueryPages <- function(url) {
-	i <- 0
-	dfl <- list()
 	
-	# 1000 rows per page
-	repeat {
-		df <- sumodbPage(paste0(url, "&offset=", 1000 * i))
+	second_sunday <- this_year[
+		month(this_year) %% 2 == 1
+		& wday(this_year) == 1
+		& day(this_year) %in% 8:14
+	]
+	
+	latest_basho_start <- second_sunday[dt > second_sunday] %>% tail(1)
+	
+	sprintf(
+		"%d.%02d",
+		year(latest_basho_start),
+		month(latest_basho_start)
+	)
+}
 
-		if(is.null(df)) {
-			break
-		} else {
-			i <- i + 1
-			dfl[[i]] <- df
-		}
+
+# wrapper
+myTry <- function(...) tryCatch(
+	...,
+	error = function(e) {},
+	warning = function(w) {}
+)
+
+
+# http://sumodb.sumogames.de/Banzuke.aspx
+sumodbBanzuke <- function(basho = latest_basho()) {
+	raw_html <- myTry(
+		read_html(
+			paste0(
+				"http://sumodb.sumogames.de/Banzuke.aspx?b=",
+				sub("\\.", "", basho), # yyyy.mm -> yyyymm
+				"&hl=on&c=on&simple=on"
+			)
+		)
+	)
+	
+	table_banzuke <- myTry(
+		raw_html %>%
+			html_node("table.banzuke") %>%
+			html_table()
+	)
+	
+	ids <- myTry(
+		raw_html %>%
+			html_node("table.banzuke") %>%
+			html_nodes("a") %>%
+			html_attr("href") %>%
+			grep("^Rikishi\\.aspx\\?r=\\d+$", ., value = TRUE) %>%
+			sub("^Rikishi\\.aspx\\?r=", "", .) %>%
+			as.integer()
+	)
+	
+	if (nrow(table_banzuke) == length(ids)) cbind(
+		id = ids,
+		table_banzuke %>% setNames(tolower(names(.)))
+	)
+}
+
+
+# parses single page of Bout query result
+sumodbBoutParse <- function(raw_html) {
+	table_record <- myTry(
+		raw_html %>%
+			html_node("table.record") %>%
+			html_table(
+				fill = TRUE,
+				header = FALSE,
+				trim = TRUE
+			) %>% 
+			tail(-2)
+	)
+	
+	rikishi_ids <- myTry(
+		raw_html %>%
+			html_node("table.record") %>%
+			html_nodes("td>a") %>%
+			html_attr("href") %>%
+			grep("^Rikishi\\.aspx\\?r=\\d+$", ., value = TRUE) %>%
+			sub("^Rikishi\\.aspx\\?r=", "", .) %>%
+			as.integer()
+	)
+	
+	imgs <- myTry(
+		raw_html %>%
+			html_node("table.record") %>%
+			html_nodes("td.tk_kekka>img") %>%
+			html_attr("src") %>%
+			grep("^img/.+\\.gif$", ., value = TRUE) %>%
+			sub("^img/", "", .) %>%
+			sub("\\.gif$", "", .)
+	)
+	
+	if (length(rikishi_ids) == nrow(table_record) * 2 & length(imgs) == nrow(table_record) * 2) {
+		tibble(
+			basho = table_record[, 1],
+			day = table_record[, 2],
+	
+			rikishi1_id = rikishi_ids[c(TRUE, FALSE)],
+			rikishi1_rank = table_record[, 3],
+			rikishi1_shikona = table_record[, 4],
+			rikishi1_result = table_record[, 5],
+			rikishi1_win = grepl("shiro|fusensho", imgs[c(TRUE, FALSE)]) * 1,
+			
+			kimarite = table_record[, 7],
+			
+			rikishi2_id = rikishi_ids[c(FALSE, TRUE)],
+			rikishi2_rank = table_record[, 9],
+			rikishi2_shikona = table_record[, 10],
+			rikishi2_result = table_record[, 11],
+			rikishi2_win = grepl("shiro|fusensho", imgs[c(FALSE, TRUE)]) * 1
+		)
+	}
+}
+
+
+# http://sumodb.sumogames.de/Query_bout.aspx
+# default division = makuuchi, other divisions: j, ms, sd, jd, jk, mz
+sumodbBout <- function(basho = latest_basho(), day = NA, division = "m") {
+	sumodbURL <- c(
+		"http://sumodb.sumogames.de/Query_bout.aspx?show_form=0&rowcount=5&east1=on",
+		ifelse(is.na(basho), NA, paste0("year=", basho)),
+		ifelse(is.na(day), NA, paste0("day=", day)),
+		ifelse(is.na(division), NA, paste0(division, "=on", collapse = "&"))
+	) %>% 
+		na.omit() %>% 
+		paste(collapse = "&")
+	
+	raw_html <- myTry(read_html(sumodbURL))
+	
+	chunks <- list()
+	
+	while (!is.null(raw_html)) {
+		chunks[[length(chunks) + 1]] <- sumodbBoutParse(raw_html)
+	
+		next_page <- raw_html %>% 
+			html_nodes("div>a") %>% 
+			html_text() %>% 
+			grep("^Next$|^Last$", .)
+		
+		if (length(next_page) > 0) raw_html <- myTry(
+			raw_html %>% 
+				html_nodes("div>a") %>% 
+				html_attr("href") %>% 
+				`[`(next_page[1]) %>% 
+				paste("http://sumodb.sumogames.de", ., sep = "/") %>% 
+				read_html()
+		) else raw_html <- NULL
 	}
 	
-	# merge pages
-	df <- do.call(rbind, dfl)
-
-	if(!is.null(df)) df %>%
-		# rename columns
-		rename(
-			basho = V1,
-			day = V2,
-			rank1 = V3,
-			shikona1 = V4,
-			result1 = V5,
-			win1 = V6,
-			kimarite = V7,
-			win2 = V8,
-			rank2 = V9,
-			shikona2 = V10,
-			result2 = V11
-		)
-}
-
-
-# Bout Query wrapper
-# example (results of a basho): sumodbBoutQuery(basho = "2016.11", division = "m")
-# example (head-to-head): sumodbBoutQuery(basho = NA, shikona1 = "Hakuho", shikona2 = "Harumafuji")
-sumodbBoutQuery <- function(
-	basho = substr(Sys.Date(), 1, 4), # default: this year
-	day = NA,
-	division = NA, # subset of c("m", "j", "ms", "sd", "jd", "jk", "mz")
-	shikona1 = NA,
-	rank1 = NA,
-	shikona2 = NA,
-	rank2 = NA
-) {
-	df <- sumodbBoutQueryPages(
-		paste(
-			"http://sumodb.sumogames.de/Query_bout.aspx?show_form=0&rowcount=5&east1=on",
-			ifelse(is.na(basho), "", paste0("year=", basho)),
-			ifelse(is.na(day), "", paste0("day=", day)),
-			ifelse(is.na(division), "", paste0(division, "=on", collapse = "&")),
-			ifelse(is.na(shikona1), "", paste0("shikona1=", shikona1)),
-			ifelse(is.na(rank1), "", paste0("rank1=", rank1)),
-			ifelse(is.na(shikona2), "", paste0("shikona2=", shikona2)),
-			ifelse(is.na(rank2), "", paste0("rank2=", rank2)),
-			sep = "&"
-		)
-	)
-	
-	# clean up
-	if(!is.null(df)) df %>%	mutate(
-		day = as.integer(day),
-		win1 = recode(win1, "img/hoshi_kuro.gif" = 0, "img/hoshi_shiro.gif" = 1, "img/hoshi_fusenpai.gif" = 0, "img/hoshi_fusensho.gif" = 1),
-		kimarite = str_match(kimarite, "(\\w+)$")[, 2],
-		win2 = recode(win2, "img/hoshi_kuro.gif" = 0, "img/hoshi_shiro.gif" = 1, "img/hoshi_fusenpai.gif" = 0, "img/hoshi_fusensho.gif" = 1)
-	)
-}
-
-
-# Banzuke Query wrapper, returns Makuuchi Banzuke
-# example: sumodbBanzukeQuery(basho = "2016.11")
-sumodbBanzukeQuery <- function(basho) {
-	df <- tryCatch(
-		readHTMLTable(
-			doc = paste0("http://sumodb.sumogames.de/Banzuke.aspx?b=", gsub("\\.", "", basho), "&w=on&c=on"),
-			trim = TRUE,
-			which = 6 # found by trial & error
-		),
-		error = function(e) {},
-		warning = function(w) {}
-	)
-	
-	if(!is.null(df)) df %>%
-		setNames(tolower(names(.))) %>%
-		mutate(basho = basho) %>%
-		select(
-			basho,
-			rank,
-			rikishi,
-			`height/weight`
-		) %>%
-		mutate(
-			height = as.numeric(str_match(`height/weight`, "([0-9.]+) cm")[, 2]),
-			weight = as.numeric(str_match(`height/weight`, "([0-9.]+) kg")[, 2])
-		) %>%
-		select(-`height/weight`)
+	if (length(chunks) > 0) do.call(rbind, chunks)
 }
