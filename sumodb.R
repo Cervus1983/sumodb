@@ -64,6 +64,7 @@ sumodbBanzuke <- function(basho = latest_basho()) {
 	)
 	
 	if (nrow(table_banzuke) == length(ids)) cbind(
+		basho = basho,
 		id = ids,
 		table_banzuke %>% setNames(tolower(names(.)))
 	)
