@@ -117,7 +117,7 @@ sumodbBoutParse <- function(raw_html) {
 			sub("\\.gif$", "", .)
 	)
 	
-	if (length(rikishi_ids) == nrow(table_record) * 2 & length(imgs) == nrow(table_record) * 2) {
+	if (length(rikishi_ids) == nrow(table_record) * 2) {
 		tibble(
 			basho = table_record[, 1],
 			day = table_record[, 2],
@@ -126,7 +126,10 @@ sumodbBoutParse <- function(raw_html) {
 			rikishi1_rank = table_record[, 3],
 			rikishi1_shikona = table_record[, 4],
 			rikishi1_result = table_record[, 5],
-			rikishi1_win = grepl("shiro|fusensho", imgs[c(TRUE, FALSE)]) * 1,
+			rikishi1_win = c(
+				grepl("shiro|fusensho", imgs[c(TRUE, FALSE)]) * 1,
+				rep(NA, nrow(table_record) - length(imgs) / 2)
+			),
 			
 			kimarite = table_record[, 7],
 			
@@ -134,7 +137,10 @@ sumodbBoutParse <- function(raw_html) {
 			rikishi2_rank = table_record[, 9],
 			rikishi2_shikona = table_record[, 10],
 			rikishi2_result = table_record[, 11],
-			rikishi2_win = grepl("shiro|fusensho", imgs[c(FALSE, TRUE)]) * 1
+			rikishi2_win = c(
+				grepl("shiro|fusensho", imgs[c(FALSE, TRUE)]) * 1,
+				rep(NA, nrow(table_record) - length(imgs) / 2)
+			)
 		)
 	}
 }
@@ -144,7 +150,7 @@ sumodbBoutParse <- function(raw_html) {
 # default division = makuuchi, other divisions: j, ms, sd, jd, jk, mz
 sumodbBout <- function(basho = latest_basho(), day = NA, division = "m") {
 	sumodbURL <- c(
-		"http://sumodb.sumogames.de/Query_bout.aspx?show_form=0&rowcount=5&east1=on",
+		"http://sumodb.sumogames.de/Query_bout.aspx?show_form=0&rowcount=5",
 		ifelse(is.na(basho), NA, paste0("year=", basho)),
 		ifelse(is.na(day), NA, paste0("day=", day)),
 		ifelse(is.na(division), NA, paste0(division, "=on", collapse = "&"))
