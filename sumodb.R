@@ -118,9 +118,12 @@ sumodbBoutParse <- function(raw_html) {
 			sub("\\.gif$", "", .)
 	)
 	
-	if (length(imgs) == 0) imgs <- c(NA, NA)
-	
 	if (length(rikishi_ids) == nrow(table_record) * 2) {
+		if (length(imgs) == 0) imgs <- rep(NA, nrow(table_record) * 2) else imgs <- c(
+			grepl("shiro|fusensho", imgs) * 1,
+			rep(NA, nrow(table_record) * 2 - length(imgs))
+		)
+		
 		tibble(
 			basho = table_record[, 1],
 			day = table_record[, 2],
@@ -129,10 +132,7 @@ sumodbBoutParse <- function(raw_html) {
 			rikishi1_rank = table_record[, 3],
 			rikishi1_shikona = table_record[, 4],
 			rikishi1_result = table_record[, 5],
-			rikishi1_win = c(
-				grepl("shiro|fusensho", imgs[c(TRUE, FALSE)]) * 1,
-				rep(NA, nrow(table_record) - length(imgs) / 2)
-			),
+			rikishi1_win = imgs[c(TRUE, FALSE)],
 			
 			kimarite = table_record[, 7],
 			
@@ -140,10 +140,7 @@ sumodbBoutParse <- function(raw_html) {
 			rikishi2_rank = table_record[, 9],
 			rikishi2_shikona = table_record[, 10],
 			rikishi2_result = table_record[, 11],
-			rikishi2_win = c(
-				grepl("shiro|fusensho", imgs[c(FALSE, TRUE)]) * 1,
-				rep(NA, nrow(table_record) - length(imgs) / 2)
-			)
+			rikishi2_win = imgs[c(FALSE, TRUE)]
 		)
 	}
 }
