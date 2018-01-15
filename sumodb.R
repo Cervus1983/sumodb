@@ -118,6 +118,8 @@ sumodbBoutParse <- function(raw_html) {
 			sub("\\.gif$", "", .)
 	)
 	
+	if (length(imgs) == 0) imgs <- c(NA, NA)
+	
 	if (length(rikishi_ids) == nrow(table_record) * 2) {
 		tibble(
 			basho = table_record[, 1],
