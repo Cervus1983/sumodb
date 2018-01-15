@@ -1,12 +1,12 @@
 library(data.world)
-set_config(saved_cfg)
+set_config(cfg_env(auth_token_var = "DW_API_TOKEN"))
 
 source("sumodb.R")
 
-# 18 years ~ 107 tournaments (2011 March cancelled)
-basho <- expand.grid(2000:2017, sprintf("%02d", seq(1, 12, by = 2))) %>% 
+# 207 tournaments since my birth (2011 March cancelled)
+basho <- expand.grid(1983:2017, sprintf("%02d", seq(1, 12, by = 2))) %>% 
 	apply(., 1, paste, collapse = ".") %>% 
-	setdiff(., "2011.03") %>% 
+	setdiff(., c("1983.01", "1983.03", "2011.03")) %>% 
 	sort()
 
 # https://data.world/cervus/sumo-wrestling-banzuke
