@@ -1,5 +1,6 @@
 library(lubridate)
 library(rvest)
+library(stringr)
 library(tidyverse)
 
 
