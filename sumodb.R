@@ -42,7 +42,7 @@ sumodbBanzuke <- function(basho = latest_basho()) {
 			paste0(
 				"http://sumodb.sumogames.de/Banzuke.aspx?b=",
 				sub("\\.", "", basho), # yyyy.mm -> yyyymm
-				"&hl=on&c=on&simple=on"
+				"&h=on&sh=on&bd=on&w=on&spr=on&sps=on&hl=on&c=on&simple=on"
 			)
 		)
 	)
@@ -66,7 +66,20 @@ sumodbBanzuke <- function(basho = latest_basho()) {
 	if (nrow(table_banzuke) == length(ids)) cbind(
 		basho = basho,
 		id = ids,
-		table_banzuke %>% setNames(tolower(names(.)))
+		table_banzuke %>% 
+			set_names(gsub(" ", "_", tolower(names(.)))) %>% 
+			transmute(
+				rank,
+				rikishi,
+				heya,
+				shusshin,
+				birth_date,
+				height = as.numeric(str_match(`height/weight`, "([0-9.]+) cm")[, 2]),
+				weight = as.numeric(str_match(`height/weight`, "([0-9.]+) kg")[, 2]),
+				prev,
+				prev_w,
+				prev_l
+			)
 	)
 }
 
