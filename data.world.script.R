@@ -22,7 +22,7 @@ sapply(
 # https://data.world/cervus/sumo-wrestling-results
 sapply(
 	basho,
-	function(x) upload_data_frame(
+	function(x)	upload_data_frame(
 		dataset = "cervus/sumo-wrestling-results",
 		data_frame = sumodbBout(x, division = NA),
 		file_name = paste(x, "csv", sep = ".")
