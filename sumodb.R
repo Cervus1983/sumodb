@@ -127,7 +127,7 @@ sumodbBoutParse <- function(raw_html) {
 		
 		tibble(
 			basho = table_record[, 1],
-			day = table_record[, 2],
+			day = as.integer(table_record[, 2]),
 	
 			rikishi1_id = rikishi_ids[c(TRUE, FALSE)],
 			rikishi1_rank = table_record[, 3],
