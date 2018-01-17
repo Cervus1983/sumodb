@@ -80,7 +80,8 @@ sumodbBanzuke <- function(basho = latest_basho()) {
 				prev,
 				prev_w,
 				prev_l
-			)
+			),
+		stringsAsFactors = FALSE
 	)
 }
 
