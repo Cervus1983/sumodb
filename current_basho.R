@@ -5,6 +5,9 @@ set_config(cfg_env(auth_token_var = "DW_API_TOKEN"))
 # interface to http://sumodb.sumogames.de
 source("sumodb.R")
 
+# wrapper for data frame concatenation
+dfapply <- function(...) do.call(rbind, lapply(...))
+
 # https://data.world/cervus/sumo-banzuke
 banzuke <- dfapply(
 	seq(1, 12, by = 2),
