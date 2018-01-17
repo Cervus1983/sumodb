@@ -154,7 +154,7 @@ sumodbBout <- function(basho = latest_basho(), day = NA, division = "m") {
 		"http://sumodb.sumogames.de/Query_bout.aspx?show_form=0&rowcount=5",
 		ifelse(is.na(basho), NA, paste0("year=", basho)),
 		ifelse(is.na(day), NA, paste0("day=", day)),
-		ifelse(is.na(division), NA, paste0(division, "=on", collapse = "&"))
+		ifelse(is.na(division[1]), NA, paste0(division, "=on", collapse = "&"))
 	) %>% 
 		na.omit() %>% 
 		paste(collapse = "&")
